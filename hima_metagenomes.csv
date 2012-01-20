@@ -1,510 +1,605 @@
-Microorganism or Project	BioProject	project type	RefSeq or CAMERA Accession	year	Temperature	environment	depth	location	latitude	longitude	taxonomy	Sequencing centre	Genome size	plasmids	reference
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000009		11.7	Coastal		Browns Bank, Gulf of Maine	42.85278	-66.217224			61605	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000011		15	Embayment		Bedford Basin, Nova Scotia	44.690277	-63.637222			61131	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000012		11.2	Estuary		Bay of Fundy, Nova Scotia	45.111668	-64.94666			59679	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000014		9.4	Coastal		Newport Harbor, RI	41.485832	-71.35111			129655	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000015		11	Coastal		Block Island, NY	41.09111	-71.60222			79303	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000016		12	Coastal		Cape May, NJ	38.94	-74.685			78304	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000017		11	Estuary		Delaware Bay, NJ	39.417778	-75.504166			124435	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000018		1	Estuary		Chesapeake Bay, MD	38.946945	-76.41722			125440	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000018		1	Estuary		Chesapeake Bay, MD	38.946945	-76.41722			722	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000019		9.3	Coastal		Off Nags Head, NC	36.003887	-75.39472			138033	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1457	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1445	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1477	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1492	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1422	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1432	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1437	dideoxysequencing (Sanger)	
-Global Ocean Sampling	13694	metagenome	JCVI_SMPL_1103283000058		15.02	Estuary		Chesapeake Bay, MD	38.133335	-76.38333			1334	dideoxysequencing (Sanger)	
-Mediterranean Bathypelagic Habitat Metagenome	19587	metagenome	DEEPMED_SMPL_KM3_20041117		13.93	saline water	3010	Ionian Km3 station	36.510555	15.676945			43	PCR	http://www.ncbi.nlm.nih.gov/pubmed/17878949
-Mediterranean Bathypelagic Habitat Metagenome	19587	metagenome	DEEPMED_SMPL_KM3_20041117		13.93	saline water	3010	Ionian Km3 station	36.510555	15.676945			9048	dideoxysequencing (Sanger)	
-Virome Tampa Bay lytic virome	28619	virome	CAM_SMPL_000806		15	seawater	3	Estuary	27.7737	-82.6215			202505	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000294			saline water		Norwegian Fjord	60.269444	5.2222223			209073	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000295			saline water		Norwegian Fjord	60.269444	5.2222223			134915	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000296			saline water		Norwegian Fjord	60.269444	5.2222223			344216	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000297			saline water		Norwegian Fjord	60.269444	5.2222223			304020	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000298			saline water		Norwegian Fjord	60.269444	5.2222223			135033	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000299			saline water		Norwegian Fjord	60.269444	5.2222223			162871	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000300			saline water		Norwegian Fjord	60.269444	5.2222223			38220	pyrosequencing (454)	
-Marine Metagenome from Coastal Waters	28969	metagenome	PML_SMPL_SRS000301			saline water		Norwegian Fjord	60.269444	5.2222223			116192	pyrosequencing (454)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	JGI_SMPL_HF4000_12-21-03		1.46	deep abyss	4000	Hawaii Ocean Time-series station ALOHA, 4000 m	22.75	-158			11229	dideoxysequencing (Sanger)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	JGI_SMPL_HF770_12-21-03		4.78	core of dissolved oxygen minimum layer	770	Hawaii Ocean Time-series station ALOHA, 770 m	22.75	-158			11479	dideoxysequencing (Sanger)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	HF_SMPL_HOT179_500M_CDNA		7.1	well below upper mesopelagic	500	North Pacific Subtropical Gyre	22.75	-158			122250	pyrosequencing (454)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	HF_SMPL_HOT179_500M_GDNA		7.1	well below upper mesopelagic	500	North Pacific Subtropical Gyre	22.75	-158			393581	pyrosequencing (454)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	JGI_SMPL_HF500_10-06-02		7.25	well below upper mesopelagic	500	Hawaii Ocean Time-series station ALOHA, 500 m	22.75	-158			9027	dideoxysequencing (Sanger)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	HF_SMPL_HOT179_500M_SG			upper euphotic	500	North Pacific Subtropical Gyre	22.73	-158.03			139430	dideoxysequencing (Sanger)	
-Microbial Community Genomics at the HOT/ALOHA	29033	metagenome	HF_SMPL_HOT186_500M_GDNA			upper euphotic	500	North Pacific Subtropical Gyre	22.73	-158.03			995747	pyrosequencing (454)	
-Uncultured bacterium ARCTIC13_E_12	29035	metagenome	EU795083	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	32524	fosmid library	
-Uncultured bacterium ARCTIC23_C_02	29035	metagenome	EU795084	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	40066	fosmid library	
-Uncultured bacterium ARCTIC23_B_12	29035	metagenome	EU795085	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	42904	fosmid library	
-Uncultured bacterium ARCTIC26_B_07	29035	metagenome	EU795086	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	38114	fosmid library	
-Uncultured bacterium ARCTIC31_D_06	29035	metagenome	EU795087	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	45910	fosmid library	
-Uncultured bacterium ARCTIC32_A_02	29035	metagenome	EU795088	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	33145	fosmid library	
-Uncultured bacterium ARCTIC32_C_08	29035	metagenome	EU795089	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35827	fosmid library	
-Uncultured bacterium ARCTIC32_E_01	29035	metagenome	EU795090	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	36511	fosmid library	
-Uncultured bacterium ARCTIC40_B_04	29035	metagenome	EU795091	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	40282	fosmid library	
-Uncultured bacterium ARCTIC09_D_04	29035	metagenome	EU795092	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35216	fosmid library	
-Uncultured bacterium ARCTIC09_G_06	29035	metagenome	EU795093	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	45832	fosmid library	
-Uncultured bacterium ARCTIC09_D_03	29035	metagenome	EU795094	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	20408	fosmid library	
-Uncultured bacterium ARCTIC09_G_07	29035	metagenome	EU795095	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	31029	fosmid library	
-Uncultured bacterium ARCTIC31_H_08	29035	metagenome	EU795096	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	42078	fosmid library	
-Uncultured bacterium ARCTIC24_B_12	29035	metagenome	EU795097	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	38590	fosmid library	
-Uncultured bacterium ARCTIC24_F_09	29035	metagenome	EU795098	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	17909	fosmid library	
-Uncultured bacterium ARCTIC34_F_09	29035	metagenome	EU795099	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	22119	fosmid library	
-Uncultured bacterium ARCTIC38_A_01	29035	metagenome	EU795100	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	37111	fosmid library	
-Uncultured bacterium ARCTIC38_F_05	29035	metagenome	EU795101	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	40955	fosmid library	
-Uncultured bacterium ARCTIC39_F_11	29035	metagenome	EU795102	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	42771	fosmid library	
-Uncultured bacterium ARCTIC45_G_10	29035	metagenome	EU795103	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	27445	fosmid library	
-Uncultured bacterium ARCTIC49_D_07	29035	metagenome	EU795104	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	34061	fosmid library	
-Uncultured bacterium ARCTIC14_B_11	29035	metagenome	EU795105	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	34249	fosmid library	
-Uncultured bacterium ARCTIC12_D_07	29035	metagenome	EU795106	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35783	fosmid library	
-Uncultured bacterium ARCTIC20_C_09	29035	metagenome	EU795107	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	23950	fosmid library	
-Uncultured bacterium ARCTIC40_D_10	29035	metagenome	EU795222	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	25795	fosmid library	
-Uncultured bacterium ARCTIC42_H_12	29035	metagenome	EU795223	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35531	fosmid library	
-Uncultured bacterium ARCTIC12_H_4	29035	metagenome	EU795224	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35950	fosmid library	
-Uncultured bacterium ARCTIC04_G_05	29035	metagenome	EU795225	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	40395	fosmid library	
-Uncultured bacterium ARCTIC2_F2	29035	metagenome	EU795226	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	39146	fosmid library	
-Uncultured bacterium ARCTIC36_H4	29035	metagenome	EU795227	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35546	fosmid library	
-Uncultured bacterium ARCTIC39_A_07	29035	metagenome	EU795228	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	37209	fosmid library	
-Uncultured bacterium ARCTIC02_G_04	29035	metagenome	EU795231	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	40717	fosmid library	
-Uncultured bacterium ARCTIC07_E_02	29035	metagenome	EU795232	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	34828	fosmid library	
-Uncultured bacterium ARCTIC10_A_01	29035	metagenome	EU795233	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	26646	fosmid library	
-Uncultured bacterium ARCTIC13_B_06	29035	metagenome	EU795234	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	37767	fosmid library	
-Uncultured bacterium ARCTIC37_F_02	29035	metagenome	EU795235	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	36723	fosmid library	
-Uncultured bacterium ARCTIC42_C_05	29035	metagenome	EU795236	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	39020	fosmid library	
-Uncultured bacterium ARCTIC06_E_09	29035	metagenome	EU795237	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	36796	fosmid library	
-Uncultured bacterium ARCTIC06_H_11	29035	metagenome	EU795238	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	30001	fosmid library	
-Uncultured bacterium ARCTIC16_F_12	29035	metagenome	EU795239	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	32749	fosmid library	
-Uncultured bacterium ARCTIC22_F_01	29035	metagenome	EU795240	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	37361	fosmid library	
-Uncultured bacterium ARCTIC26_C_03	29035	metagenome	EU795241	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	33550	fosmid library	
-Uncultured bacterium ARCTIC29_C_07	29035	metagenome	EU795242	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	43546	fosmid library	
-Uncultured bacterium ARCTIC22_G_02	29035	metagenome	EU795243	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	25464	fosmid library	
-Uncultured bacterium ARCTIC37_F_06	29035	metagenome	EU795244	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	32585	fosmid library	
-Uncultured bacterium ARCTIC46_A_12	29035	metagenome	EU795245	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	33981	fosmid library	
-Uncultured bacterium ARCTIC47_D_06	29035	metagenome	EU795246	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35900	fosmid library	
-Uncultured bacterium ARCTIC03_F_03	29035	metagenome	EU795247	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	38232	fosmid library	
-Uncultured bacterium ARCTIC04_F_10	29035	metagenome	EU795248	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	31512	fosmid library	
-Uncultured bacterium ARCTIC08_C_07	29035	metagenome	EU795249	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	36159	fosmid library	
-Uncultured bacterium ARCTIC08_H_02	29035	metagenome	EU795250	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	31483	fosmid library	
-Uncultured bacterium ARCTIC10_F_05	29035	metagenome	EU795251	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35254	fosmid library	
-Uncultured bacterium ARCTIC33_F_06	29035	metagenome	EU795252	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	35912	fosmid library	
-Uncultured bacterium ARCTIC11_B_09	29035	metagenome	EU795253	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	37379	fosmid library	
-Uncultured bacterium ARCTIC13_G_06	29035	metagenome	EU795254	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	42185	fosmid library	
-Uncultured bacterium ARCTIC21_A_09	29035	metagenome	EU795255	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	33726	fosmid library	
-Uncultured bacterium ARCTIC26_B_09	29035	metagenome	EU795278	2008		surface seawater	10	Beaufort Sea, Arctic Ocean				Broad Institute	33816	fosmid library	
-Antarctic Marine Bacterioplankton	30543	metagenome		2006	-2 to 2	coastal seawater		Antarctica							http://aem.asm.org/cgi/content/full/72/2/1532
-Glacier Ice Metagenome	30701	metagenome	ICEMETAGENOME_SMPL_GLACIERICEMETAGENOME			glacier		Northern Schneeferner Glacier, Germany	47.416668 N 10.983334 E				1076539	pyrosequencing (454)	
-Whale Fall Metagenome	32355	metagenome	CAM_SMPL_WHALEFALLMAT			Whale fall carcass microbial mat	1674	Santa Cruz Basin	33.3	-119.22			38281	dideoxysequencing (Sanger)	
-Whale Fall Metagenome	32357	metagenome	CAM_SMPL_WHALEFALLRIB			Whale fall carcass rib bone	1674	Santa Cruz Basin	33.3	-119.22			38496	dideoxysequencing (Sanger)	
-Whale Fall Metagenome	32359	metagenome	CAM_SMPL_WHALEFALLBONE			Whale fall carcass bone	560	W. Antarctic Peninsula Shelf	-65.1	-64.47			40549	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE1			MARINE DERIVED LAKE	23	ACE LAKE, ANTARCTICA	-68.4	78.18278			100085	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE2			MARINE DERIVED LAKE	18	ACE LAKE, ANTARCTICA	-68.4	78.18278			9672	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE227_0.1UM		2.71	Marine Derived Lake	23	Ace Lake, Antarctica	-68.4	78.183334			543641	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE227_0.8UM		2.71	Marine Derived Lake	23	Ace Lake, Antarctica	-68.4	78.183334			628332	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE227_3.0UM		2.71	Marine Derived Lake	23	Ace Lake, Antarctica	-68.4	78.183334			307291	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE228_0.1UM		2.66	Marine Derived Lake	18	Ace Lake, Antarctica	-68.4	78.183334			418304	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE228_0.8UM		2.66	Marine Derived Lake	18	Ace Lake, Antarctica	-68.4	78.183334			615550	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE228_3.0UM		2.66	Marine Derived Lake	18	Ace Lake, Antarctica	-68.4	78.183334			321078	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE229_0.1UM		2.04	Marine Derived Lake	14	Ace Lake, Antarctica	-68.4	78.183334			473537	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE229_0.8UM		2.04	Marine Derived Lake	14	Ace Lake, Antarctica	-68.4	78.183334			511397	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE229_3.0UM		2.04	Marine Derived Lake	14	Ace Lake, Antarctica	-68.4	78.183334			337192	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE230_0.1UM		2.71	Marine Derived Lake	12.7	Ace Lake, Antarctica	-68.4	78.183334			519750	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE230_0.8UM		2.71	Marine Derived Lake	12.7	Ace Lake, Antarctica	-68.4	78.183334			615368	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE230_3.0UM		2.71	Marine Derived Lake	12.7	Ace Lake, Antarctica	-68.4	78.183334			242550	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE231_0.1UM		.42	Marine Derived Lake	11.5	Ace Lake, Antarctica	-68.4	78.183334			593365	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE231_0.8UM		.42	Marine Derived Lake	11.5	Ace Lake, Antarctica	-68.4	78.183334			575788	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE231_3.0UM		.42	Marine Derived Lake	11.5	Ace Lake, Antarctica	-68.4	78.183334			431927	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE232_0.1UM		1.02	Marine Derived Lake	5	Ace Lake, Antarctica	-68.4	78.183334			608567	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE232_0.8UM		1.02	Marine Derived Lake	5	Ace Lake, Antarctica	-68.4	78.183334			539083	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE232_3.0UM		1.02	Marine Derived Lake	5	Ace Lake, Antarctica	-68.4	78.183334			185290	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE3			MARINE DERIVED LAKE	14	ACE LAKE, ANTARCTICA	-68.4	78.18278			10042	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE4			MARINE DERIVED LAKE	12.7	ACE LAKE, ANTARCTICA	-68.4	78.18278			54446	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE5			MARINE DERIVED LAKE	11.5	ACE LAKE, ANTARCTICA	-68.4	78.18278			283663	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE6			MARINE DERIVED LAKE	5	ACE LAKE, ANTARCTICA	-68.4	78.18278			281490	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE7			MARINE DERIVED LAKE	0.15	ORGANIC LAKE, ANTARCTICA	-68.43278	78.29972			28481	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE8			Coastal	1.829	NEWCOMB BAY, ANTARCTICA	-66.27	110.53306			103058	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	ANTARCTICAAQUATIC_SMPL_SITE9			Open Ocean	2	ANTARCTICA OPEN WATER, ANTARCTIC TERRITORY	-63.89111	112.07306			95521	dideoxysequencing (Sanger)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022063			saline water	0	Organic Lake, Antarctica	-68.46233	78.19663			442584	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022077		2.4	marine habitat	1	Southern Ocean	-53.02473	73.37503			196343	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022078			saline water	0	Organic Lake, Antarctica	-68.46233	78.19663			501913	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022079		-.5	marine habitat	1.829268293	NewComb Bay, Antarctica	-66.27	110.53333			190878	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022080		-.5	marine habitat	1.829268293	NewComb Bay, Antarctica	-66.27	110.53333			606124	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022081		-.16	marine habitat	2	Antarctica Open water	-63.89067	112.07333			532224	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022082		2.9	marine habitat	2	East Antarctica Plain	-59.312	142.4627			398888	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022083		.6	marine habitat	2	CEAMARC-27 Antarctica Shelf-64 nm off continent.  Near pack ice	-66.02133	142.666			605282	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022084		-.11	marine habitat	1.5	CEAMARC-61, 34 nm from Antarctica coast	-66.3394	142.98807			247204	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022085		-.11	marine habitat	1.5	CEAMARC-61, 34 nm from Antarctica coast	-66.3394	142.98807			315251	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022086		-1.3	marine habitat	1.5	CEAMARC-8. 16 nm from Antarctica	-66.5662	142.3167			579105	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022087		-1.85	marine habitat	330	CEAMARC-8, bottom sample, 16nm from Antarctica	-66.5662	142.3167			293348	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022088		-1.85	marine habitat	330	CEAMARC-8, bottom sample, 16nm from Antarctica	-66.5662	142.3167			304500	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022089		-.55	marine habitat	1.5	CEAMARC-37, 18nm from Antarctica	-66.55867	143.33733			556351	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022090		-.55	marine habitat	1.5	CEAMARC-37, 18nm from Antarctica	-66.55867	143.33733			513372	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022091		-.75	marine habitat	2.5	CEAMARC-43.  6.3 nm from Antarctica	-66.76503	143.29073			475524	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022092		-1.8	marine habitat	2	CEAMARC-47  2nm from Antarctica and 9.5nm from Mertz Glacier	-67.05213	144.66883			562136	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022093		-1.9	marine habitat	1320	CEAMARC-49A.  Deep sample 1nm from Mertz Glacier	-67.0682	145.2021			428650	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022094		-.9	marine habitat	2	CEAMARC-59	-66.76167	144.33433			497210	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022095		-.9	marine habitat	2	CEAMARC-59	-66.76167	144.33433			483940	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022096			marine habitat	890	CEAMARC-59- Deep sample	-66.76167	144.33433			507033	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022097		-.4	marine habitat	2	Polyna-W-Compass-B Time series	-66.1719	142.93533			678613	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022098		-.4	marine habitat	2	Polyna-W-Compass-B Time series	-66.1719	142.93533			368795	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022099		0	marine habitat	2	CASO-15  Off continental shelf	-64.30007	150.00557			556006	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022100		-.24	marine habitat	2	Polynya-E. Time series	-66.19027	143.49167			493365	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022101		-.65	marine habitat	2	CEAMARC-12. 10nm from shore of Dumont d''urville, french station	-66.58167	140.8811			541556	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022102		-1.77	marine habitat	1170	CEAMARC-70, 16 miles from Antarctica coast	-66.47267	140.53767			287918	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022103		-1.77	marine habitat	1170	CEAMARC-70, 16 miles from Antarctica coast	-66.47267	140.53767			222511	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022104		.7	marine habitat	2	Iceberg-4, 250 meters away from 35km long and 18 km wide iceberg	-65.5367	140.7234			574756	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022105		3.3	marine habitat	2	Transect from Antarctic to Hobart	-60.00007	141.23353			335598	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022106		3.3	marine habitat	2	Transect from Antarctic to Hobart	-60.00007	141.23353			319599	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022107		4	marine habitat	2	Open Ocean Transect	-56.6953	141.86873			600552	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022108		.48	marine habitat	3693	Open Ocean Transect, Deep sample	-56.69667	141.875			115204	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022109		.48	marine habitat	3693	Open Ocean Transect, Deep sample	-56.69667	141.875			273388	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022110		7.6	marine habitat	2	Open Ocean Transect	-52.02333	144.06567			632036	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022111		11	marine habitat	2	Open Ocean Transect	-48.24867	145.805			578706	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022112		11	marine habitat	2	Open Ocean Transect	-48.24867	145.805			498495	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022113		14.75	marine habitat	2	Open Ocean Transect	-44.718	145.755			274421	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022114		14.75	marine habitat	2	Open Ocean Transect	-44.718	145.755			274421	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022115		-1.12	marine habitat	2.7	Ross Sea, McMurdo Sound, Antarctica	-77.6797	166.00913			339608	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022116		-1.12	marine habitat	2.7	Ross Sea, McMurdo Sound, Antarctica	-77.6797	166.00913			524087	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022117			marine habitat	1	Ross Sea, McMurdo Sound, in the Sea Ice, Antarctica	-77.70727	166.07877			309737	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022118			marine habitat	1	Ross Sea, McMurdo Sound, in the Sea Ice, Antarctica	-77.70727	166.07877			177084	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022119			marine habitat		Ross Sea, McMurdo Sound, below sea Ice sample 370, Antarctica	-77.70727	166.07877			312147	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022120			marine habitat		Ross Sea, McMurdo Sound, below sea Ice sample 370, Antarctica	-77.70727	166.07877			285917	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022121			marine habitat		Ross Sea, McMurdo Sound, below sea Ice sample 370, Antarctica	-77.70727	166.07877			303027	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022122			marine habitat		Ross Sea, McMurdo Sound, under sea Ice, Antactica	-77.6819	166.0039			232048	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022123			marine habitat		Ross Sea, McMurdo Sound, under sea Ice, Antactica	-77.6819	166.0039			383631	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022124			marine habitat		Ross Sea, McMurdo Sound, under sea Ice, Antactica	-77.6819	166.0039			293385	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022125		-13	saline water	1.8	Organic Lake, Antarctica	-68.46233	78.19663			566349	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022126		-13	saline water	1.8	Organic Lake, Antarctica	-68.46233	78.19663			536138	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022127		-13.5	saline water	4.3	Organic Lake, Antarctica	-68.46233	78.19663			535242	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022128		-13	saline water	5.6	Organic Lake, Antarctica	-68.46233	78.19663			549618	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022129		-12	saline water	6.5	Organic Lake, Antarctica	-68.46233	78.19663			529793	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022130		-12	saline water	6.8	Organic Lake, Antarctica	-68.46233	78.19663			230423	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022131		-13	saline water	1	Organic Lake, Antarctica (Re-sample of surface water	-68.46193	78.2063			508819	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022132		2	marine habitat	1	Southern Ocean	-54.94833	129.62033			480504	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022133		-1.4	marine habitat	1	Southern Ocean	-60.50267	120.048			184411	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022134		-1.7	marine habitat	1	Southern Ocean	-63.818	115.17333			492900	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022135		-1.7	marine habitat	1	Southern Ocean	-64.80333	112.38			245170	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022136		-1.7	marine habitat	1	Southern Ocean	-64.80333	112.38			274971	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022137		-1.7	marine habitat	1	Southern Ocean	-64.831	80.724			526779	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022138		-1.3	marine habitat	1	Southern Ocean	-68.39643	76.68033			2	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022139		-1.5	marine habitat	1	Southern Ocean	-64.19833	76.45733			196480	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022140		2	marine habitat	1	Southern Ocean	-55.26467	74.25613			371374	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022141		2	marine habitat	1	Southern Ocean	-55.26467	74.25613			148342	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022142		2.4	marine habitat	1	Southern Ocean	-53.02473	73.37503			485801	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022143			saline water	0	Organic Lake, Antarctica	-68.46233	78.19663			546620	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022144		-.5	marine habitat	1.829268293	NewComb Bay, Antarctica	-66.27	110.53333			192460	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022145		-.16	marine habitat	2	Antarctica Open water	-63.89067	112.07333			566776	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022146		2.9	marine habitat	2	East Antarctica Plain	-59.312	142.4627			297801	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022147		2.9	marine habitat	2	East Antarctica Plain	-59.312	142.4627			452235	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022148		.6	marine habitat	2	CEAMARC-27 Antarctica Shelf-64 nm off continent.  Near pack ice	-66.02133	142.666			300044	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022149		.6	marine habitat	2	CEAMARC-27 Antarctica Shelf-64 nm off continent.  Near pack ice	-66.02133	142.666			268919	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022150		-.11	marine habitat	1.5	CEAMARC-61, 34 nm from Antarctica coast	-66.3394	142.98807			471696	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022151		-1.3	marine habitat	1.5	CEAMARC-8. 16 nm from Antarctica	-66.5662	142.3167			290759	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022152		-1.3	marine habitat	1.5	CEAMARC-8. 16 nm from Antarctica	-66.5662	142.3167			257370	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022153		-1.85	marine habitat	330	CEAMARC-8, bottom sample, 16nm from Antarctica	-66.5662	142.3167			593995	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022154		-.55	marine habitat	1.5	CEAMARC-37, 18nm from Antarctica	-66.55867	143.33733			939406	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022155		-.75	marine habitat	2.5	CEAMARC-43.  6.3 nm from Antarctica	-66.76503	143.29073			593054	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022156		-.75	marine habitat	2.5	CEAMARC-43.  6.3 nm from Antarctica	-66.76503	143.29073			502653	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022157		-1.8	marine habitat	2	CEAMARC-47  2nm from Antarctica and 9.5nm from Mertz Glacier	-67.05213	144.66883			328779	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022158		-1.9	marine habitat	1320	CEAMARC-49A.  Deep sample 1nm from Mertz Glacier	-67.0682	145.2021			637203	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022159		-1.9	marine habitat	1320	CEAMARC-49A.  Deep sample 1nm from Mertz Glacier	-67.0682	145.2021			498122	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022160		-.9	marine habitat	2	CEAMARC-59	-66.76167	144.33433			422624	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022161			marine habitat	890	CEAMARC-59- Deep sample	-66.76167	144.33433			523258	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022162			marine habitat	890	CEAMARC-59- Deep sample	-66.76167	144.33433			488854	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022163		-.4	marine habitat	2	Polyna-W-Compass-B Time series	-66.1719	142.93533			489088	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022164		0	marine habitat	2	CASO-15  Off continental shelf	-64.30007	150.00557			224187	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022165		0	marine habitat	2	CASO-15  Off continental shelf	-64.30007	150.00557			236094	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022166		-.24	marine habitat	2	Polynya-E. Time series	-66.19027	143.49167			512122	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022167		-.24	marine habitat	2	Polynya-E. Time series	-66.19027	143.49167			827199	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022168		-.65	marine habitat	2	CEAMARC-12. 10nm from shore of Dumont d''urville, french station	-66.58167	140.8811			238757	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022169		-.65	marine habitat	2	CEAMARC-12. 10nm from shore of Dumont d''urville, french station	-66.58167	140.8811			285626	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022170		-1.77	marine habitat	1170	CEAMARC-70, 16 miles from Antarctica coast	-66.47267	140.53767			575147	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022171		.7	marine habitat	2	Iceberg-4, 250 meters away from 35km long and 18 km wide iceberg	-65.5367	140.7234			299594	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022172		.7	marine habitat	2	Iceberg-4, 250 meters away from 35km long and 18 km wide iceberg	-65.5367	140.7234			243952	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022173		3.3	marine habitat	2	Transect from Antarctic to Hobart	-60.00007	141.23353			514324	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022174		4	marine habitat	2	Open Ocean Transect	-56.6953	141.86873			283188	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022175		4	marine habitat	2	Open Ocean Transect	-56.6953	141.86873			208948	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022176		.48	marine habitat	3693	Open Ocean Transect, Deep sample	-56.69667	141.875			666409	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022177		7.6	marine habitat	2	Open Ocean Transect	-52.02333	144.06567			313638	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022178		11	marine habitat	2	Open Ocean Transect	-48.24867	145.805			462165	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022179		14.75	marine habitat	2	Open Ocean Transect	-44.718	145.755			581620	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022180		-1.12	marine habitat	2.7	Ross Sea, McMurdo Sound, Antarctica	-77.6797	166.00913			371725	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022181			marine habitat	1	Ross Sea, McMurdo Sound, in the Sea Ice, Antarctica	-77.70727	166.07877			609136	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022182		-13	saline water	1.8	Organic Lake, Antarctica	-68.46233	78.19663			379837	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022183		-13.5	saline water	4.3	Organic Lake, Antarctica	-68.46233	78.19663			616546	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022184		-13	saline water	5.6	Organic Lake, Antarctica	-68.46233	78.19663			413382	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022185		-13	saline water	5.6	Organic Lake, Antarctica	-68.46233	78.19663			347844	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022186		-12	saline water	6.5	Organic Lake, Antarctica	-68.46233	78.19663			561686	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022187		-12	saline water	6.8	Organic Lake, Antarctica	-68.46233	78.19663			585538	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022188		-12	saline water	6.8	Organic Lake, Antarctica	-68.46233	78.19663			623785	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022189		-13	saline water	1	Organic Lake, Antarctica (Re-sample of surface water	-68.46193	78.2063			501234	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022191		2	marine habitat	1	Southern Ocean	-54.94833	129.62033			384127	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022192		2	marine habitat	1	Southern Ocean	-54.94833	129.62033			154210	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022193		-1.4	marine habitat	1	Southern Ocean	-60.50267	120.048			479551	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022194		-1.7	marine habitat	1	Southern Ocean	-63.818	115.17333			241757	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022195		-1.7	marine habitat	1	Southern Ocean	-63.818	115.17333			236755	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022196		-1.7	marine habitat	1	Southern Ocean	-64.80333	112.38			543280	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022197		-1.7	marine habitat	1	Southern Ocean	-64.831	80.724			321540	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022198		-1.7	marine habitat	1	Southern Ocean	-64.831	80.724			160282	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022199		-1.3	marine habitat	1	Southern Ocean	-68.39643	76.68033			430312	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022200		-1.5	marine habitat	1	Southern Ocean	-64.19833	76.45733			711157	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022201		2	marine habitat	1	Southern Ocean	-55.26467	74.25613			788296	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022202		2.4	marine habitat	1	Southern Ocean	-53.02473	73.37503			310548	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022204		-1.4	marine habitat	1	Southern Ocean	-60.50267	120.048			263283	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022206		7.6	marine habitat	2	Open Ocean Transect	-52.02333	144.06567			205727	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA022813		-1.8	marine habitat	2	CEAMARC-47  2nm from Antarctica and 9.5nm from Mertz Glacier	-67.05213	144.66883			264498	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA023092		-.16	marine habitat	2	Antarctica Open water	-63.89067	112.07333			379142	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA023093		-12	saline water	6.5	Organic Lake, Antarctica	-68.46233	78.19663			215151	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA023094		-13	saline water	1	Organic Lake, Antarctica (Re-sample of surface water	-68.46193	78.2063			298243	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA023095		-1.5	marine habitat	1	Southern Ocean	-64.19833	76.45733			337860	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA023096		-13.5	saline water	4.3	Organic Lake, Antarctica	-68.46233	78.19663			188182	pyrosequencing (454)	
-Antarctica Aquatic Microbial Metagenome	33179	metagenome	CAM_SMPL_SRA023097		-1.3	marine habitat	1	Southern Ocean	-68.39643	76.68033			244910	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_150-JAN_DAY		10.01	saline water	50	Western Channel	50.251667	-4.208889			137207	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_151-JAN_DAY_PREFILTER		10.01	saline water	50	Western Channel	50.251667	-4.208889			139880	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_152-JAN_NIGHT_PREFILTER		10.05	saline water	50	Western Channel	50.261112	-4.2436113			130826	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_153-APR_DAY_PREFILTER		9.7	saline water	50	Western Channel	50.251667	-4.208889			124925	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_154-APR_NIGHT_PREFILTER		9.6	saline water	50	Western Channel	50.253056	-4.1875			147492	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_155-APR_DAY		9.7	saline water	50	Western Channel	50.251667	-4.208889			213056	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_156-AUG_4PM_PREFILTER		15.9	saline water	50	Western Channel	50.253334	-4.201667			139375	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_157-AUG_10PM_PREFILTER		15.8	saline water	50	Western Channel	50.254444	-4.198889			193254	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_158-AUG_4AM_PREFILTER		15.7	saline water	50	Western Channel	50.266388	-4.148611			154865	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_159-AUG_10AM_PREFILTER		15.8	saline water	50	Western Channel	50.266388	-4.148611			85823	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_170_JAN_DAY_PF		10.01	saline water	50		50.251667	-4.208889			9949	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_171_JAN_NIGHT_PF		10.05	saline water	50		50.261112	-4.2436113			9954	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_172_AUG_4PM_PF		15.9	saline water	50		50.253334	-4.201667			9840	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_173_AUG_10PM_PF		15.8	saline water	50		50.254444	-4.198889			10782	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_174_AUG_4AM_PF		15.7	saline water	50		50.266388	-4.148611			15855	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_175_AUG_10AM_PF		15.8	saline water	50		50.266388	-4.148611			15554	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_176_APR_DAY_PF		9.7	saline water	50		50.251667	-4.208889			11780	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_177_APR_NIGHT_PF		9.6	saline water	50		50.253056	-4.1875			9472	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_178_JAN_DAY		10.01	saline water	50		50.251667	-4.208889			26702	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_179_APR_DAY		9.7	saline water	50		50.251667	-4.208889			16137	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_APR_DAY		9.7	saline water	50	Western Channel	50.251667	-4.208889			421021	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_APR_DAY_PF		9.7	saline water	50	Western Channel	50.251667	-4.208889			637801	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_APR_NIGHT_PF		9.6	saline water	50	Western Channel	50.253056	-4.1875			493002	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_AUG_10AM_PF		15.8	saline water	50	Western Channel	50.266388	-4.148611			326474	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_AUG_10PM_PF		15.8	saline water	50	Western Channel	50.254444	-4.198889			524953	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_AUG_4AM_PF		15.7	saline water	50	Western Channel	50.266388	-4.148611			500116	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_AUG_4PM_PF		15.9	saline water	50	Western Channel	50.253334	-4.201667			620757	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_JAN_DAY		10.01	saline water	50	Western Channel	50.251667	-4.208889			826289	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_JAN_DAY_PF		10.01	saline water	50	Western Channel	50.251667	-4.208889			616791	pyrosequencing (454)	
-Western Channel Observatory Microbial Metagenomic Study	46599	metagenome	WESTERNCHANNELOMM_SMPL_JAN_NIGHT_PF		10.05	saline water	50	Western Channel	50.261112	-4.2436113			784822	pyrosequencing (454)	
-Virome Archimedes3	47425	virome	CAM_SMPL_000825		2.04	seawater	5200	Atlantic:Equatorial	1.1903	-12.9568			90174	pyrosequencing (454)	
-Virome BADE1	47427	virome	CAM_SMPL_000845		13.1	seawater	2400	Mediterranean Sea	37.18	14.98			104669	pyrosequencing (454)	
-Uncultured virus Saanichss Achan-JL3	47431	virome	CAM_SMPL_001004			seawater	10	Saanich Inlet	48.62	-123.5775			96950	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.25	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.43	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.44	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-1	47431	virome	CAM_SMPL_000971		9.44	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			268557	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.19	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.23	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.23	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.25	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.38	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.4	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.43	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-2	47431	virome	CAM_SMPL_000989		9.44	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			221802	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-3	47431	virome	CAM_SMPL_000965		9.23	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			171406	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-3	47431	virome	CAM_SMPL_000965		9.25	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			171406	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-3	47431	virome	CAM_SMPL_000965		9.26	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			171406	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-3	47431	virome	CAM_SMPL_000965		9.27	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			171406	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-3	47431	virome	CAM_SMPL_000965		9.28	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			171406	pyrosequencing (454)	
-Virome Saanich Suttle Anoxic-3	47431	virome	CAM_SMPL_000965		9.33	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			171406	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		7.3	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		7.34	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		7.49	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		7.51	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		7.65	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		7.72	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		8.31	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-1	47431	virome	CAM_SMPL_000993		8.5	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			312563	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		8.14	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		8.32	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		9.77	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		10.22	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		12.33	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		12.83	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		13.19	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-2	47431	virome	CAM_SMPL_000982		13.36	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			252792	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-3	47431	virome	CAM_SMPL_000964		8.96	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			262809	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-3	47431	virome	CAM_SMPL_000964		9.05	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			262809	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-3	47431	virome	CAM_SMPL_000964		10.66	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			262809	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-3	47431	virome	CAM_SMPL_000964		10.68	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			262809	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-3	47431	virome	CAM_SMPL_000964		12.11	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			262809	pyrosequencing (454)	
-Virome Saanich Suttle Oxic-3	47431	virome	CAM_SMPL_000964		13.28	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			262809	pyrosequencing (454)	
-Virome Anaerobic oil degrading sediment virome	47435	virome	CAM_SMPL_000803		14	Marine Sediment	22	Pacific	34.45	-119.89			110191	pyrosequencing (454)	
-Virome Benthic methanotrophic mats virome	47435	virome	CAM_SMPL_000831		14	microbial mat (marine; benthic)	22	Pacific	34.45	-119.89			228827	pyrosequencing (454)	
-Virome Methanogenic sediments virome	47435	virome	CAM_SMPL_000832		4.1	Marine Sediment; 200cm subsurface depth.	580	Pacific	34.2245	-120.03433			97560	pyrosequencing (454)	
-Virome Kelp forest virome	47439	virome	CAM_SMPL_000717		12	water	1	Pt Loma San Diego	32.665	-117.277778			213171	pyrosequencing (454)	
-Virome Appledore Island sediment RNA virome	47449	virome	CAM_SMPL_000954		14.8	marine sediment	.5	Babs Cove	42.9892582	-70.6144937			98103	pyrosequencing (454)	
-Virome Appledore Island water column RNA virome	47451	virome	CAM_SMPL_000996		14.8	seawater	.5	Babs Cove	42.9892582	-70.6144937			48554	pyrosequencing (454)	
-Virome 020/01/20.3m	47455	virome	CAM_SMPL_000999		12.04	seawater	20.3	Argentine Sea	-45.00018	-61.29991			153852	pyrosequencing (454)	
-Virome 072/01/2.3m	47455	virome	CAM_SMPL_000958		11.53	seawater	2.3	Argentine Sea	-49.45002	-60.2825			241571	pyrosequencing (454)	
-Virome 142/01/15.5m	47455	virome	CAM_SMPL_000987		9	seawater	15.5	Argentine Sea	-52.36382	-60.16867			300136	pyrosequencing (454)	
-Virome Minimetagenomics 1	47455	virome	CAM_SMPL_000988		9	seawater	15.5	Argentine Sea	-52.36382	-60.16867			202525	pyrosequencing (454)	
-Virome Minimetagenomics 2	47455	virome	CAM_SMPL_001013		9	seawater	15.5	Argentine Sea	-52.36382	-60.16867			212996	pyrosequencing (454)	
-Virome Minimetagenomics 3	47455	virome	CAM_SMPL_000959		9	seawater	15.5	Argentine Sea	-52.36382	-60.16867			184906	pyrosequencing (454)	
-Virome Minimetagenomics 4	47455	virome	CAM_SMPL_000980		9	seawater	15.5	Argentine Sea	-52.36382	-60.16867			278821	pyrosequencing (454)	
-Arctic first-year summer sea ice, Beaufort Sea	47457	virome	CAM_SMPL_000810		.5	Sea ice	.7						115063	pyrosequencing (454)	
-Virome Arctic cryopeg brine	47457	virome	CAM_SMPL_000811		-5	Saline water	6	Arctic: Permafrost Shaft	71.290556	-156.788611			227899	pyrosequencing (454)	
-Virome FeCl method-1	47463	virome	CAM_SMPL_000722		16.3	seawater	3	Pacific Ocean	32.867	-117.257			172745	pyrosequencing (454)	
-Virome FeCl method-2	47463	virome	CAM_SMPL_000723		16.3	seawater	3	Pacific Ocean	32.867	-117.257			94832	pyrosequencing (454)	
-Virome FeCl method-3	47463	virome	CAM_SMPL_000724		16.3	seawater	3	Pacific Ocean	32.867	-117.257			175121	pyrosequencing (454)	
-Virome FeCl method-4	47463	virome	CAM_SMPL_000725		16.3	seawater	3	Pacific Ocean	32.867	-117.257			218300	pyrosequencing (454)	
-Virome FeCl method-5	47463	virome	CAM_SMPL_000726		16.3	seawater	3	Pacific Ocean	32.867	-117.257			162078	pyrosequencing (454)	
-Virome FeCl method-6	47463	virome	CAM_SMPL_000727		16.3	seawater	3	Pacific Ocean	32.867	-117.257			124120	pyrosequencing (454)	
-Virome Helgoland after bloom virome	47465	virome	CAM_SMPL_001015		13.2	seawater	.5	Atlantic:North Sea	54.1873	7.8964			355400	pyrosequencing (454)	
-Virome Helgoland during bloom virome	47465	virome	CAM_SMPL_000972		6.4	seawater	.5	Atlantic:North Sea	54.1873	7.8964			335347	pyrosequencing (454)	
-1000 meters DNA	47467	virome	CAM_SMPL_000813		7	seawater	1000	near BATS	32	-64			214449	pyrosequencing (454)	
-1000 meters RNA	47467	virome	CAM_SMPL_000829		7	seawater	1000	near BATS	32	-64			239048	pyrosequencing (454)	
-G2810	47471	virome	CAM_SMPL_A0003		13			G2810	47.95	-129.0968			231246	pyrosequencing (454)	
-VAGALB1/1	47473	virome	CAM_SMPL_000842		2.7	marine sediment	3670	Bay of Biscay (NE Atlantic Ocean)	41.7309	-10.68238			169762	pyrosequencing (454)	
-VASVAL242/1	47475	virome	CAM_SMPL_000835		2	marine sediment	5632	Arctic Ocean	79.1335	2.8423			147478	pyrosequencing (454)	
-Virome ME-08-1	47483	virome	CAM_SMPL_000819		12	PFGE bands	1	Raunefjorden	60	5			150076	pyrosequencing (454)	
-Virome ME-08-2	47483	virome	CAM_SMPL_000826		12	PFGE bands	1	Raunefjorden	60	5			166940	pyrosequencing (454)	
-Virome ME-08-3	47483	virome	CAM_SMPL_000847		12	PFGE bands	1	Raunefjorden	60	5			121688	pyrosequencing (454)	
-Virome ME-08-4	47483	virome	CAM_SMPL_000820		12	PFGE bands	1	Raunefjorden	60	5			170860	pyrosequencing (454)	
-Virome ME-08-6	47483	virome	CAM_SMPL_000827		12	PFGE bands	1	Raunefjorden	60	5			136262	pyrosequencing (454)	
-Virome ME-08-7	47483	virome	CAM_SMPL_000828		12	PFGE bands	1	Raunefjorden	60	5			45494	pyrosequencing (454)	
-Virome ME-08-8	47483	virome	CAM_SMPL_000821		12	PFGE bands	1	Raunefjorden	60	5			169279	pyrosequencing (454)	
-Virome ME-08-9	47483	virome	CAM_SMPL_000808		12	PFGE bands	1	Raunefjorden	60	5			132133	pyrosequencing (454)	
-Virome EPR hydrothermal vent: Extracellular RNA virome	47485	virome	CAM_SMPL_000718		5.5	Diffuse Flow Hydrothermal Vent Seawater	2505	Pacific	9.5032	-104.1748			174663	pyrosequencing (454)	
-Virome EPR hydrothermal vent: Extracellular ssDNA virome	47485	virome	CAM_SMPL_000719		5.5	Diffuse Flow Hydrothermal Vent Seawater	2505	Pacific	9.5032	-104.1748			127601	pyrosequencing (454)	
-Virome EPR hydrothermal vent: Induced RNA virome	47485	virome	CAM_SMPL_000720		15	Diffuse Flow Hydrothermal Vent Seawater	2511	Pacific	9.5017	-104.1746			123595	pyrosequencing (454)	
-Virome EPR hydrothermal vent: Induced ssDNA virome	47485	virome	CAM_SMPL_000721		15	Diffuse Flow Hydrothermal Vent Seawater	2511	Pacific	9.5017	-104.1746			187796	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		2.78	seawater	2	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-.4	seawater	52	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.09	seawater	55	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.1	seawater	24	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.28	seawater	26	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.29	seawater	39	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.37	seawater	1	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.44	seawater	8	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.46	seawater	20	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.48	seawater	23	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.65	seawater	20	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.65	seawater	25	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.67	seawater	33	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.68	seawater	16	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-Virome Suttle GOB5	50457	virome	CAM_SMPL_000992		-1.69	seawater	20	Arctic: Amundsen Gulf,  Beaufort Sea	70.03	-126.3			242045	pyrosequencing (454)	
-12C Fraction Aerobic Sediment Virome	52287	virome	CAM_SMPL_000846		14	Marine sediments	22	Pacific	34.45	-119.89			243294	pyrosequencing (454)	
-12C Fraction ANME Virome	52287	virome	CAM_SMPL_000807		5.3	Marine sediments	805	Pacific	33.75	-118.67			204594	pyrosequencing (454)	
-13C-Enriched Aurobic Sediment Virome	52287	virome	CAM_SMPL_000817		14	Marine sediments	22	Pacific	34.45	-119.89			199514	pyrosequencing (454)	
-Virome 13C-enriched ANME virome	52287	virome	CAM_SMPL_000839		5.3	Marine sediments	805	Pacific	33.75	-118.67			228819	pyrosequencing (454)	
-Virome Arctic frost flowers	52293	virome	CAM_SMPL_000812		-12.3	Saline snow		Arctic:Chukchi Sea	71.618194	-156.860083			227662	pyrosequencing (454)	
-Virome Subarctic Pacific-1	52301	virome	CAM_SMPL_001011		5.96	seawater	10	Pacific Ocean	50	-145			325857	pyrosequencing (454)	
-Virome Subarctic Pacific-10	52301	virome	CAM_SMPL_000979		3.07	seawater	1300	Pacific Ocean	48.39	-123.4			296016	pyrosequencing (454)	
-Virome Subarctic Pacific-2	52301	virome	CAM_SMPL_000985		3.91	seawater	500	Pacific Ocean	50	-145			344039	pyrosequencing (454)	
-Virome Subarctic Pacific-3	52301	virome	CAM_SMPL_000998		2.9	seawater	1000	Pacific Ocean	50	-145			332263	pyrosequencing (454)	
-Virome Subarctic Pacific-4	52301	virome	CAM_SMPL_000956		1.93	seawater	2000	Pacific Ocean	50	-145			267169	pyrosequencing (454)	
-Virome Subarctic Pacific-5	52301	virome	CAM_SMPL_000957		4.22	seawater	500	Pacific Ocean	48.582	-130.4			265601	pyrosequencing (454)	
-Virome Subarctic Pacific-6	52301	virome	CAM_SMPL_001003		3.22	seawater	1000	Pacific Ocean	48.582	-130.4			331803	pyrosequencing (454)	
-Virome Subarctic Pacific-7	52301	virome	CAM_SMPL_000986		1.95	seawater	2000	Pacific Ocean	48.582	-130.4			304409	pyrosequencing (454)	
-Virome Subarctic Pacific-8	52301	virome	CAM_SMPL_001012		13.25	seawater	500	Pacific Ocean	48.39	-123.4			337451	pyrosequencing (454)	
-Virome Subarctic Pacific-9	52301	virome	CAM_SMPL_000970		3.78	seawater	1000	Pacific Ocean	48.39	-123.4			276096	pyrosequencing (454)	
-Virome Archaeal dominated cold seeps Costa Rica dsDNA virome	52305	virome	CAM_SMPL_000840		3.69	sediment	517	Eel River	40.7864683333333	-124.595091666666			266554	pyrosequencing (454)	
-Virome Archaeal dominated cold seeps Costa Rica RNA virome	52305	virome	CAM_SMPL_000805		3.69	sediment	517	Eel River	40.7864683333333	-124.595091666666			239275	pyrosequencing (454)	
-Virome Archaeal dominated cold seeps Costa Rica ssDNA virome	52305	virome	CAM_SMPL_000841		3.69	sediment	517	Eel River	40.7864683333333	-124.595091666666			228925	pyrosequencing (454)	
-Black Sea Sediment Metagenome	52309	virome	CAM_SMPL_000799		9.02	marine sediment	1970	Black Sea	42.99839	31.51629			205938	pyrosequencing (454)	
-Virome Whittard Canyon (VAWC1/1)	52311	virome	CAM_SMPL_000843			marine sediment	3077	Irish Sea (NE Atlantic Ocean)	48.1541	-10.5606			224193	pyrosequencing (454)	
-Virome Gulf of Maine 1	52315	virome	CAM_SMPL_000974		16.96	seawater	1	Atlantic	43.36745	-67.55262			208207	pyrosequencing (454)	
-Virome Gulf of Maine 2	52315	virome	CAM_SMPL_000960		16.96	seawater	1	Atlantic	43.36745	-67.55262			150042	pyrosequencing (454)	
-Viral metagenome RIFCO pool	52329	virome	CAM_SMPL_001172		10	groundwater		Rifle DOE IFRC, Rifle Colorado	39.53	-107.73			194236	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		11.1	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		12	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		14.2	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		15.8	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		15.8	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		15.9	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		15.9	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake227 Freshwater Metagenome	52331	virome	CAM_SMPL_000800		16.5	Freshwater	1	Lake 227, Experimental Lakes Area, Ontario	49.69	-93.69			246799	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814		7.8	Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814		15.6	Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814		16.2	Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814		16.3	Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814		16.8	Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814			Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome Lake239 Freshwater Metagenome	52333	virome	CAM_SMPL_000814			Freshwater	1	Lake 239, Experimental Lakes Area, Ontario	49.66	-93.72			200505	pyrosequencing (454)	
-Virome induced lysogens 030409-2a	52403	virome	CAM_SMPL_000844		15	seawater	3	Estuary	27.7737	-82.6215			194325	pyrosequencing (454)	
-Virome induced lysogens 030409-2i	52403	virome	CAM_SMPL_000838		15	seawater	3	Estuary	27.7737	-82.6215			208244	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001050		12.2	freshwater	10	Yellowstone lakes, USA					422632	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001051		12.2	freshwater	10	Yellowstone lakes, USA					539728	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001080		12.2	freshwater	10	Yellowstone lakes, USA					509389	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001054		12.3	freshwater	10	Yellowstone lakes, USA					580556	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001055		12.3	freshwater	10	Yellowstone lakes, USA					526420	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001056		12.3	freshwater	10	Yellowstone lakes, USA					587042	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001068		12.3	freshwater	10	Yellowstone lakes, USA					420663	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001076		12.3	freshwater	10	Yellowstone lakes, USA					601329	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001082		12.3	freshwater	10	Yellowstone lakes, USA					636147	pyrosequencing (454)	
-Yellowstone Lake	60433	metagenome	CAM_SMPL_001067		13	freshwater	14.1	Yellowstone lakes, USA					550823	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_462		2.97	saline water		2060	27.506	-111.346966666667			421004	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_463		3	hydrothermal vent		2050	27.506	-111.346966666667			954569	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_464		2.97	saline water		2060	27.506	-111.346966666667			570580	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_465		2.58	saline water		2771	26.38	-110.728416666667			462850	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_466		2.96	hydrothermal vent		2040	27.0181666666667	-111.417666666667			640069	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_467		2.58	saline water		2771	26.38	-110.728416666667			546704	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_468		2.93	hydrothermal vent		2771	27.0458333333333	-111.3815			758433	pyrosequencing (454)	
-Guaymas Basin deep-sea Metagenome	72707	metagenome	CAM_S_469		2.95	hydrothermal vent		1775	27.0166666666667	-111.4155			616464	pyrosequencing (454)	
-Microbial Oceanography Course 		metagenome	CAM_SMPL_001119		11.03153	marine habitat	800	Northwestern Sargasso Sea	32.163083	-64.502867			1233	pyrosequencing (454)	
-Microbial Oceanography Course 		metagenome	CAM_SMPL_001128		6.80241	marine habitat	1000	Northwestern Sargasso Sea	32.16955	-64.505067			1130	pyrosequencing (454)	
-Ocean Viruses		virome	SCUMS_SMPL_Arctic		-1.5	saline water	2	Canadian Arctic	70.69334	-136.42334			688590	pyrosequencing (454)	
-Ocean Viruses		virome	SCUMS_SMPL_Arctic		-1.4	saline water	10	Arctic, Chukchi Sea	73.16167	-159.44667			688590	pyrosequencing (454)	
-Ocean Viruses		virome	SCUMS_SMPL_BBC		7	saline water	0	Bay of British Columbia	49.705	-124.35167			416456	pyrosequencing (454)	
-iron sequestration in marine pennate diatoms		transcriptome	MARINEPENNATEDIATOMS_SMPL_PAPA_GO_1_CONTROL		6.52	saline water		Station PAPA	50	-145			243315	pyrosequencing (454)	
-iron sequestration in marine pennate diatoms		transcriptome	MARINEPENNATEDIATOMS_SMPL_PAPA_GO_2_+FE		8.1-10.3	saline water		Station PAPA	50	-145			177688	pyrosequencing (454)	
-Viral Metagenome from the Freshwater Lake Limnopolar		virome	LAKELIMNOPOLARVIROME_SMPL_VIROMESPRING		0	fresh water		lake Limnopolar	-61.218613	-62.676388			46813	pyrosequencing (454)	
-Viral Metagenome from the Freshwater Lake Limnopolar		virome	LAKELIMNOPOLARVIROME_SMPL_VIROMESUMMER			fresh water		lake Limnopolar	-61.218613	-62.676388			42534	pyrosequencing (454)	
-Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000990		11.97	seawater	30	Pacific Ocean: Southern California Bight	33.55	-118.4			247306	pyrosequencing (454)	
-Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000990		13.2	seawater	13	Pacific Ocean: Southern California Bight	33.55	-118.4			247306	pyrosequencing (454)	
-Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000990		14.16	seawater	5	Pacific Ocean: Southern California Bight	33.55	-118.4			247306	pyrosequencing (454)	
-Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000990		16	seawater	22	Pacific Ocean: Southern California Bight	33.55	-118.4			247306	pyrosequencing (454)	
-Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000990		16.54	seawater	5	Pacific Ocean: Southern California Bight	33.55	-118.4			247306	pyrosequencing (454)	
-Uncultured virus Virus 2.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000961		9.47	seawater	150	Pacific Ocean: Southern California Bight	33.55	-118.4			272681	pyrosequencing (454)	
-Uncultured virus Virus 2.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000961		9.53	seawater	150	Pacific Ocean: Southern California Bight	33.55	-118.4			272681	pyrosequencing (454)	
-Uncultured virus Virus 2.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000961		9.55	seawater	150	Pacific Ocean: Southern California Bight	33.55	-118.4			272681	pyrosequencing (454)	
-Uncultured virus Virus 3.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000962		6.45	seawater	500	Pacific Ocean: Southern California Bight	33.55	-118.4			191687	pyrosequencing (454)	
-Uncultured virus Virus 3.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000962		6.47	seawater	500	Pacific Ocean: Southern California Bight	33.55	-118.4			191687	pyrosequencing (454)	
-Uncultured virus Virus 3.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_000962		6.97	seawater	500	Pacific Ocean: Southern California Bight	33.55	-118.4			191687	pyrosequencing (454)	
-Uncultured virus Virus 4.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_001014		5.12	seawater	885	Pacific Ocean: Southern California Bight	33.55	-118.4			245384	pyrosequencing (454)	
-Uncultured virus Virus 4.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_001014		5.15	seawater	885	Pacific Ocean: Southern California Bight	33.55	-118.4			245384	pyrosequencing (454)	
-Uncultured virus Virus 4.  San Pedro Ocean Time Series Microbial Observatory		virome	CAM_SMPL_001014		5.19	seawater	885	Pacific Ocean: Southern California Bight	33.55	-118.4			245384	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		13.6	seawater	17	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		13.6	seawater	17	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		14.4	seawater	30	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		14.4	seawater	30	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		15	seawater	15.5	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		16.03	seawater	5	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005		16.9	seawater	5	Pacific Ocean: Southern California Bight	33.33	-118.24			43366	pyrosequencing (454)	
-Uncultured virus Virus 5.		virome	CAM_SMPL_001005			biofilm	860	Pacific Ocean: Hydrate Ridge/Oregon Margin	44.652	125.096			43366	pyrosequencing (454)	
-Virome ANME virome		virome	CAM_SMPL_000818		5.3	Marine sediments	805	Pacific	33.75	-118.67			206759	pyrosequencing (454)	
-Virome Baseline from CO2 enrichment experiment		virome	CAM_SMPL_000715		14	water	1	Pt Loma San Diego	32.665	-117.277778			221907	pyrosequencing (454)	
-Virome CO2-augmented seawater virome		virome	CAM_SMPL_000716		12	water	1	Pt Loma San Diego	32.665	-117.277778			235292	pyrosequencing (454)	
-Virome Suboxic marine basin virome		virome	CAM_SMPL_000833		5.3	Marine sediments	805	Pacific	33.75	-118.67			223500	pyrosequencing (454)	
-Virome Suttle GOB Saanich Anoxic		virome	CAM_SMPL_000975		9.38	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			161118	pyrosequencing (454)	
-Virome Suttle GOB Saanich Anoxic		virome	CAM_SMPL_000975		9.42	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			161118	pyrosequencing (454)	
-Virome Suttle GOB Saanich Anoxic		virome	CAM_SMPL_000975		9.43	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			161118	pyrosequencing (454)	
-Virome Suttle GOB Saanich Anoxic		virome	CAM_SMPL_000975		9.43	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			161118	pyrosequencing (454)	
-Virome Suttle GOB Saanich Anoxic		virome	CAM_SMPL_000975		9.44	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			161118	pyrosequencing (454)	
-Virome Suttle GOB Saanich Anoxic		virome	CAM_SMPL_000975		9.44	seawater	200	Pacific: Strait of Georgia	48.35	-123.3			161118	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		7.49	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		7.51	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		7.65	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		9.05	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		9.05	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		9.77	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB Saanich Oxic		virome	CAM_SMPL_001016		12.83	seawater	10	Pacific: Strait of Georgia	48.35	-123.3			181000	pyrosequencing (454)	
-Virome Suttle GOB2		virome	CAM_SMPL_001017		14.4	seawater	.5	Strait of Georgia	49.19	-123.15			236433	pyrosequencing (454)	
-Virome Suttle GOB3		virome	CAM_SMPL_001007		8.33	seawater	.5	Strait of Georgia	48.28	-123.19			168589	pyrosequencing (454)	
-ALOHA deep sea metagenome		metagenome		2009	4	deep seawater		Station ALOHA, Hawaii							http://aem.asm.org/cgi/content/full/75/16/5345
-Antarctic Archaea Fosmids		metagenome		2002	-2 to 2	coastal seawater		Antarctica							http://aem.asm.org/cgi/content/full/68/1/335
-Antarctic Genome Fragments		metagenome		2003	-2 to 2	coastal seawater		Antarctica							http://www.pnas.org/content/100/22/12830.abstract
-Antarctic Polar Front metagenome		metagenome		2004	-2 to 2	deep seawater		Antarctica (4000 m)							http://www.ncbi.nlm.nih.gov/pubmed/15305921
-Green Sulfur Bacterium		metagenome		2008		meromictic lake		Ace Lake, Antarctica	68° 28.33′ S, 78° 11.29′ E						http://www.nature.com/ismej/journal/v4/n8/abs/ismej201028a.html
+"Project"	"Subproject"	"BioProject"	"project type"	"Source"	"Accession"	"year"	"Temperature"	"environment"	"depth"	"location"	"country"	"latitude"	"longitude"	"taxonomy"	"Sequencing centre"	"Genome size"	"data type"	"reference"	"MGRAST_PI"
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000009"		11.7	"Coastal"		"Browns Bank, Gulf of Maine"		42.85278	-66.217224			61605	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000011"		15	"Embayment"		"Bedford Basin, Nova Scotia"		44.690277	-63.637222			61131	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000012"		11.2	"Estuary"		"Bay of Fundy, Nova Scotia"		45.111668	-64.94666			59679	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000014"		9.4	"Coastal"		"Newport Harbor, RI"		41.485832	-71.35111			129655	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000015"		11	"Coastal"		"Block Island, NY"		41.09111	-71.60222			79303	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000016"		12	"Coastal"		"Cape May, NJ"		38.94	-74.685			78304	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000017"		11	"Estuary"		"Delaware Bay, NJ"		39.417778	-75.504166			124435	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000018"		1	"Estuary"		"Chesapeake Bay, MD"		38.946945	-76.41722			125440	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000018"		1	"Estuary"		"Chesapeake Bay, MD"		38.946945	-76.41722			722	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000019"		9.3	"Coastal"		"Off Nags Head, NC"		36.003887	-75.39472			138033	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1457	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1445	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1477	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1492	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1422	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1432	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1437	"dideoxysequencing (Sanger)"		
+"Global Ocean Sampling"		13694	"metagenome"	"CAMERA"	"JCVI_SMPL_1103283000058"		15.02	"Estuary"		"Chesapeake Bay, MD"		38.133335	-76.38333			1334	"dideoxysequencing (Sanger)"		
+"Mediterranean Bathypelagic Habitat Metagenome"		19587	"metagenome"	"CAMERA"	"DEEPMED_SMPL_KM3_20041117"		13.93	"saline water"	3010	"Ionian Km3 station"		36.510555	15.676945			43	"PCR"	"http://www.ncbi.nlm.nih.gov/pubmed/17878949"	
+"Mediterranean Bathypelagic Habitat Metagenome"		19587	"metagenome"	"CAMERA"	"DEEPMED_SMPL_KM3_20041117"		13.93	"saline water"	3010	"Ionian Km3 station"		36.510555	15.676945			9048	"dideoxysequencing (Sanger)"		
+"Virome Tampa Bay lytic virome"		28619	"virome"	"CAMERA"	"CAM_SMPL_000806"		15	"seawater"	3	"Estuary"		27.7737	-82.6215			202505	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000294"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			209073	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000295"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			134915	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000296"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			344216	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000297"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			304020	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000298"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			135033	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000299"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			162871	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000300"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			38220	"pyrosequencing (454)"		
+"Marine Metagenome from Coastal Waters"		28969	"metagenome"	"CAMERA"	"PML_SMPL_SRS000301"			"saline water"		"Norwegian Fjord"		60.269444	5.2222223			116192	"pyrosequencing (454)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"JGI_SMPL_HF4000_12-21-03"		1.46	"deep abyss"	4000	"Hawaii Ocean Time-series station ALOHA, 4000 m"		22.75	-158			11229	"dideoxysequencing (Sanger)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"JGI_SMPL_HF770_12-21-03"		4.78	"core of dissolved oxygen minimum layer"	770	"Hawaii Ocean Time-series station ALOHA, 770 m"		22.75	-158			11479	"dideoxysequencing (Sanger)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"HF_SMPL_HOT179_500M_CDNA"		7.1	"well below upper mesopelagic"	500	"North Pacific Subtropical Gyre"		22.75	-158			122250	"pyrosequencing (454)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"HF_SMPL_HOT179_500M_GDNA"		7.1	"well below upper mesopelagic"	500	"North Pacific Subtropical Gyre"		22.75	-158			393581	"pyrosequencing (454)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"JGI_SMPL_HF500_10-06-02"		7.25	"well below upper mesopelagic"	500	"Hawaii Ocean Time-series station ALOHA, 500 m"		22.75	-158			9027	"dideoxysequencing (Sanger)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"HF_SMPL_HOT179_500M_SG"			"upper euphotic"	500	"North Pacific Subtropical Gyre"		22.73	-158.03			139430	"dideoxysequencing (Sanger)"		
+"Microbial Community Genomics at the HOT/ALOHA"		29033	"metagenome"	"CAMERA"	"HF_SMPL_HOT186_500M_GDNA"			"upper euphotic"	500	"North Pacific Subtropical Gyre"		22.73	-158.03			995747	"pyrosequencing (454)"		
+"Uncultured bacterium ARCTIC13_E_12"		29035	"metagenome"	"NCBI"	"EU795083"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	32524	"fosmid library"		
+"Uncultured bacterium ARCTIC23_C_02"		29035	"metagenome"	"NCBI"	"EU795084"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	40066	"fosmid library"		
+"Uncultured bacterium ARCTIC23_B_12"		29035	"metagenome"	"NCBI"	"EU795085"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	42904	"fosmid library"		
+"Uncultured bacterium ARCTIC26_B_07"		29035	"metagenome"	"NCBI"	"EU795086"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	38114	"fosmid library"		
+"Uncultured bacterium ARCTIC31_D_06"		29035	"metagenome"	"NCBI"	"EU795087"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	45910	"fosmid library"		
+"Uncultured bacterium ARCTIC32_A_02"		29035	"metagenome"	"NCBI"	"EU795088"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	33145	"fosmid library"		
+"Uncultured bacterium ARCTIC32_C_08"		29035	"metagenome"	"NCBI"	"EU795089"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35827	"fosmid library"		
+"Uncultured bacterium ARCTIC32_E_01"		29035	"metagenome"	"NCBI"	"EU795090"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	36511	"fosmid library"		
+"Uncultured bacterium ARCTIC40_B_04"		29035	"metagenome"	"NCBI"	"EU795091"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	40282	"fosmid library"		
+"Uncultured bacterium ARCTIC09_D_04"		29035	"metagenome"	"NCBI"	"EU795092"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35216	"fosmid library"		
+"Uncultured bacterium ARCTIC09_G_06"		29035	"metagenome"	"NCBI"	"EU795093"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	45832	"fosmid library"		
+"Uncultured bacterium ARCTIC09_D_03"		29035	"metagenome"	"NCBI"	"EU795094"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	20408	"fosmid library"		
+"Uncultured bacterium ARCTIC09_G_07"		29035	"metagenome"	"NCBI"	"EU795095"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	31029	"fosmid library"		
+"Uncultured bacterium ARCTIC31_H_08"		29035	"metagenome"	"NCBI"	"EU795096"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	42078	"fosmid library"		
+"Uncultured bacterium ARCTIC24_B_12"		29035	"metagenome"	"NCBI"	"EU795097"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	38590	"fosmid library"		
+"Uncultured bacterium ARCTIC24_F_09"		29035	"metagenome"	"NCBI"	"EU795098"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	17909	"fosmid library"		
+"Uncultured bacterium ARCTIC34_F_09"		29035	"metagenome"	"NCBI"	"EU795099"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	22119	"fosmid library"		
+"Uncultured bacterium ARCTIC38_A_01"		29035	"metagenome"	"NCBI"	"EU795100"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	37111	"fosmid library"		
+"Uncultured bacterium ARCTIC38_F_05"		29035	"metagenome"	"NCBI"	"EU795101"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	40955	"fosmid library"		
+"Uncultured bacterium ARCTIC39_F_11"		29035	"metagenome"	"NCBI"	"EU795102"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	42771	"fosmid library"		
+"Uncultured bacterium ARCTIC45_G_10"		29035	"metagenome"	"NCBI"	"EU795103"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	27445	"fosmid library"		
+"Uncultured bacterium ARCTIC49_D_07"		29035	"metagenome"	"NCBI"	"EU795104"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	34061	"fosmid library"		
+"Uncultured bacterium ARCTIC14_B_11"		29035	"metagenome"	"NCBI"	"EU795105"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	34249	"fosmid library"		
+"Uncultured bacterium ARCTIC12_D_07"		29035	"metagenome"	"NCBI"	"EU795106"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35783	"fosmid library"		
+"Uncultured bacterium ARCTIC20_C_09"		29035	"metagenome"	"NCBI"	"EU795107"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	23950	"fosmid library"		
+"Uncultured bacterium ARCTIC40_D_10"		29035	"metagenome"	"NCBI"	"EU795222"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	25795	"fosmid library"		
+"Uncultured bacterium ARCTIC42_H_12"		29035	"metagenome"	"NCBI"	"EU795223"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35531	"fosmid library"		
+"Uncultured bacterium ARCTIC12_H_4"		29035	"metagenome"	"NCBI"	"EU795224"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35950	"fosmid library"		
+"Uncultured bacterium ARCTIC04_G_05"		29035	"metagenome"	"NCBI"	"EU795225"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	40395	"fosmid library"		
+"Uncultured bacterium ARCTIC2_F2"		29035	"metagenome"	"NCBI"	"EU795226"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	39146	"fosmid library"		
+"Uncultured bacterium ARCTIC36_H4"		29035	"metagenome"	"NCBI"	"EU795227"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35546	"fosmid library"		
+"Uncultured bacterium ARCTIC39_A_07"		29035	"metagenome"	"NCBI"	"EU795228"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	37209	"fosmid library"		
+"Uncultured bacterium ARCTIC02_G_04"		29035	"metagenome"	"NCBI"	"EU795231"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	40717	"fosmid library"		
+"Uncultured bacterium ARCTIC07_E_02"		29035	"metagenome"	"NCBI"	"EU795232"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	34828	"fosmid library"		
+"Uncultured bacterium ARCTIC10_A_01"		29035	"metagenome"	"NCBI"	"EU795233"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	26646	"fosmid library"		
+"Uncultured bacterium ARCTIC13_B_06"		29035	"metagenome"	"NCBI"	"EU795234"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	37767	"fosmid library"		
+"Uncultured bacterium ARCTIC37_F_02"		29035	"metagenome"	"NCBI"	"EU795235"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	36723	"fosmid library"		
+"Uncultured bacterium ARCTIC42_C_05"		29035	"metagenome"	"NCBI"	"EU795236"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	39020	"fosmid library"		
+"Uncultured bacterium ARCTIC06_E_09"		29035	"metagenome"	"NCBI"	"EU795237"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	36796	"fosmid library"		
+"Uncultured bacterium ARCTIC06_H_11"		29035	"metagenome"	"NCBI"	"EU795238"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	30001	"fosmid library"		
+"Uncultured bacterium ARCTIC16_F_12"		29035	"metagenome"	"NCBI"	"EU795239"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	32749	"fosmid library"		
+"Uncultured bacterium ARCTIC22_F_01"		29035	"metagenome"	"NCBI"	"EU795240"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	37361	"fosmid library"		
+"Uncultured bacterium ARCTIC26_C_03"		29035	"metagenome"	"NCBI"	"EU795241"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	33550	"fosmid library"		
+"Uncultured bacterium ARCTIC29_C_07"		29035	"metagenome"	"NCBI"	"EU795242"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	43546	"fosmid library"		
+"Uncultured bacterium ARCTIC22_G_02"		29035	"metagenome"	"NCBI"	"EU795243"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	25464	"fosmid library"		
+"Uncultured bacterium ARCTIC37_F_06"		29035	"metagenome"	"NCBI"	"EU795244"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	32585	"fosmid library"		
+"Uncultured bacterium ARCTIC46_A_12"		29035	"metagenome"	"NCBI"	"EU795245"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	33981	"fosmid library"		
+"Uncultured bacterium ARCTIC47_D_06"		29035	"metagenome"	"NCBI"	"EU795246"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35900	"fosmid library"		
+"Uncultured bacterium ARCTIC03_F_03"		29035	"metagenome"	"NCBI"	"EU795247"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	38232	"fosmid library"		
+"Uncultured bacterium ARCTIC04_F_10"		29035	"metagenome"	"NCBI"	"EU795248"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	31512	"fosmid library"		
+"Uncultured bacterium ARCTIC08_C_07"		29035	"metagenome"	"NCBI"	"EU795249"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	36159	"fosmid library"		
+"Uncultured bacterium ARCTIC08_H_02"		29035	"metagenome"	"NCBI"	"EU795250"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	31483	"fosmid library"		
+"Uncultured bacterium ARCTIC10_F_05"		29035	"metagenome"	"NCBI"	"EU795251"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35254	"fosmid library"		
+"Uncultured bacterium ARCTIC33_F_06"		29035	"metagenome"	"NCBI"	"EU795252"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	35912	"fosmid library"		
+"Uncultured bacterium ARCTIC11_B_09"		29035	"metagenome"	"NCBI"	"EU795253"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	37379	"fosmid library"		
+"Uncultured bacterium ARCTIC13_G_06"		29035	"metagenome"	"NCBI"	"EU795254"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	42185	"fosmid library"		
+"Uncultured bacterium ARCTIC21_A_09"		29035	"metagenome"	"NCBI"	"EU795255"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	33726	"fosmid library"		
+"Uncultured bacterium ARCTIC26_B_09"		29035	"metagenome"	"NCBI"	"EU795278"	2008		"surface seawater"	10	"Beaufort Sea, Arctic Ocean"					"Broad Institute"	33816	"fosmid library"		
+"Antarctic Marine Bacterioplankton"		30543	"metagenome"			2006	"-2 to 2"	"coastal seawater"		"Antarctica"								"http://aem.asm.org/cgi/content/full/72/2/1532"	
+"Glacier Ice Metagenome"		30701	"metagenome"	"CAMERA"	"ICEMETAGENOME_SMPL_GLACIERICEMETAGENOME"			"glacier"		"Northern Schneeferner Glacier, Germany"		"47.416668 N 10.983334 E"				1076539	"pyrosequencing (454)"		
+"Whale Fall Metagenome"		32355	"metagenome"	"CAMERA"	"CAM_SMPL_WHALEFALLMAT"			"Whale fall carcass microbial mat"	1674	"Santa Cruz Basin"		33.3	-119.22			38281	"dideoxysequencing (Sanger)"		
+"Whale Fall Metagenome"		32357	"metagenome"	"CAMERA"	"CAM_SMPL_WHALEFALLRIB"			"Whale fall carcass rib bone"	1674	"Santa Cruz Basin"		33.3	-119.22			38496	"dideoxysequencing (Sanger)"		
+"Whale Fall Metagenome"		32359	"metagenome"	"CAMERA"	"CAM_SMPL_WHALEFALLBONE"			"Whale fall carcass bone"	560	"W. Antarctic Peninsula Shelf"		-65.1	-64.47			40549	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE1"			"MARINE DERIVED LAKE"	23	"ACE LAKE, ANTARCTICA"		-68.4	78.18278			100085	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE2"			"MARINE DERIVED LAKE"	18	"ACE LAKE, ANTARCTICA"		-68.4	78.18278			9672	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE227_0.1UM"		2.71	"Marine Derived Lake"	23	"Ace Lake, Antarctica"		-68.4	78.183334			543641	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE227_0.8UM"		2.71	"Marine Derived Lake"	23	"Ace Lake, Antarctica"		-68.4	78.183334			628332	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE227_3.0UM"		2.71	"Marine Derived Lake"	23	"Ace Lake, Antarctica"		-68.4	78.183334			307291	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE228_0.1UM"		2.66	"Marine Derived Lake"	18	"Ace Lake, Antarctica"		-68.4	78.183334			418304	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE228_0.8UM"		2.66	"Marine Derived Lake"	18	"Ace Lake, Antarctica"		-68.4	78.183334			615550	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE228_3.0UM"		2.66	"Marine Derived Lake"	18	"Ace Lake, Antarctica"		-68.4	78.183334			321078	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE229_0.1UM"		2.04	"Marine Derived Lake"	14	"Ace Lake, Antarctica"		-68.4	78.183334			473537	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE229_0.8UM"		2.04	"Marine Derived Lake"	14	"Ace Lake, Antarctica"		-68.4	78.183334			511397	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE229_3.0UM"		2.04	"Marine Derived Lake"	14	"Ace Lake, Antarctica"		-68.4	78.183334			337192	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE230_0.1UM"		2.71	"Marine Derived Lake"	12.7	"Ace Lake, Antarctica"		-68.4	78.183334			519750	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE230_0.8UM"		2.71	"Marine Derived Lake"	12.7	"Ace Lake, Antarctica"		-68.4	78.183334			615368	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE230_3.0UM"		2.71	"Marine Derived Lake"	12.7	"Ace Lake, Antarctica"		-68.4	78.183334			242550	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE231_0.1UM"		0.42	"Marine Derived Lake"	11.5	"Ace Lake, Antarctica"		-68.4	78.183334			593365	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE231_0.8UM"		0.42	"Marine Derived Lake"	11.5	"Ace Lake, Antarctica"		-68.4	78.183334			575788	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE231_3.0UM"		0.42	"Marine Derived Lake"	11.5	"Ace Lake, Antarctica"		-68.4	78.183334			431927	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE232_0.1UM"		1.02	"Marine Derived Lake"	5	"Ace Lake, Antarctica"		-68.4	78.183334			608567	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE232_0.8UM"		1.02	"Marine Derived Lake"	5	"Ace Lake, Antarctica"		-68.4	78.183334			539083	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE232_3.0UM"		1.02	"Marine Derived Lake"	5	"Ace Lake, Antarctica"		-68.4	78.183334			185290	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE3"			"MARINE DERIVED LAKE"	14	"ACE LAKE, ANTARCTICA"		-68.4	78.18278			10042	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE4"			"MARINE DERIVED LAKE"	12.7	"ACE LAKE, ANTARCTICA"		-68.4	78.18278			54446	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE5"			"MARINE DERIVED LAKE"	11.5	"ACE LAKE, ANTARCTICA"		-68.4	78.18278			283663	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE6"			"MARINE DERIVED LAKE"	5	"ACE LAKE, ANTARCTICA"		-68.4	78.18278			281490	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE7"			"MARINE DERIVED LAKE"	0.15	"ORGANIC LAKE, ANTARCTICA"		-68.43278	78.29972			28481	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE8"			"Coastal"	1.829	"NEWCOMB BAY, ANTARCTICA"		-66.27	110.53306			103058	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"ANTARCTICAAQUATIC_SMPL_SITE9"			"Open Ocean"	2	"ANTARCTICA OPEN WATER, ANTARCTIC TERRITORY"		-63.89111	112.07306			95521	"dideoxysequencing (Sanger)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022063"			"saline water"	0	"Organic Lake, Antarctica"		-68.46233	78.19663			442584	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022077"		2.4	"marine habitat"	1	"Southern Ocean"		-53.02473	73.37503			196343	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022078"			"saline water"	0	"Organic Lake, Antarctica"		-68.46233	78.19663			501913	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022079"		-0.5	"marine habitat"	1.829268293	"NewComb Bay, Antarctica"		-66.27	110.53333			190878	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022080"		-0.5	"marine habitat"	1.829268293	"NewComb Bay, Antarctica"		-66.27	110.53333			606124	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022081"		-0.16	"marine habitat"	2	"Antarctica Open water"		-63.89067	112.07333			532224	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022082"		2.9	"marine habitat"	2	"East Antarctica Plain"		-59.312	142.4627			398888	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022083"		0.6	"marine habitat"	2	"CEAMARC-27 Antarctica Shelf-64 nm off continent.  Near pack ice"		-66.02133	142.666			605282	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022084"		-0.11	"marine habitat"	1.5	"CEAMARC-61, 34 nm from Antarctica coast"		-66.3394	142.98807			247204	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022085"		-0.11	"marine habitat"	1.5	"CEAMARC-61, 34 nm from Antarctica coast"		-66.3394	142.98807			315251	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022086"		-1.3	"marine habitat"	1.5	"CEAMARC-8. 16 nm from Antarctica"		-66.5662	142.3167			579105	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022087"		-1.85	"marine habitat"	330	"CEAMARC-8, bottom sample, 16nm from Antarctica"		-66.5662	142.3167			293348	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022088"		-1.85	"marine habitat"	330	"CEAMARC-8, bottom sample, 16nm from Antarctica"		-66.5662	142.3167			304500	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022089"		-0.55	"marine habitat"	1.5	"CEAMARC-37, 18nm from Antarctica"		-66.55867	143.33733			556351	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022090"		-0.55	"marine habitat"	1.5	"CEAMARC-37, 18nm from Antarctica"		-66.55867	143.33733			513372	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022091"		-0.75	"marine habitat"	2.5	"CEAMARC-43.  6.3 nm from Antarctica"		-66.76503	143.29073			475524	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022092"		-1.8	"marine habitat"	2	"CEAMARC-47  2nm from Antarctica and 9.5nm from Mertz Glacier"		-67.05213	144.66883			562136	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022093"		-1.9	"marine habitat"	1320	"CEAMARC-49A.  Deep sample 1nm from Mertz Glacier"		-67.0682	145.2021			428650	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022094"		-0.9	"marine habitat"	2	"CEAMARC-59"		-66.76167	144.33433			497210	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022095"		-0.9	"marine habitat"	2	"CEAMARC-59"		-66.76167	144.33433			483940	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022096"			"marine habitat"	890	"CEAMARC-59- Deep sample"		-66.76167	144.33433			507033	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022097"		-0.4	"marine habitat"	2	"Polyna-W-Compass-B Time series"		-66.1719	142.93533			678613	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022098"		-0.4	"marine habitat"	2	"Polyna-W-Compass-B Time series"		-66.1719	142.93533			368795	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022099"		0	"marine habitat"	2	"CASO-15  Off continental shelf"		-64.30007	150.00557			556006	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022100"		-0.24	"marine habitat"	2	"Polynya-E. Time series"		-66.19027	143.49167			493365	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022101"		-0.65	"marine habitat"	2	"CEAMARC-12. 10nm from shore of Dumont d''urville, french station"		-66.58167	140.8811			541556	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022102"		-1.77	"marine habitat"	1170	"CEAMARC-70, 16 miles from Antarctica coast"		-66.47267	140.53767			287918	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022103"		-1.77	"marine habitat"	1170	"CEAMARC-70, 16 miles from Antarctica coast"		-66.47267	140.53767			222511	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022104"		0.7	"marine habitat"	2	"Iceberg-4, 250 meters away from 35km long and 18 km wide iceberg"		-65.5367	140.7234			574756	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022105"		3.3	"marine habitat"	2	"Transect from Antarctic to Hobart"		-60.00007	141.23353			335598	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022106"		3.3	"marine habitat"	2	"Transect from Antarctic to Hobart"		-60.00007	141.23353			319599	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022107"		4	"marine habitat"	2	"Open Ocean Transect"		-56.6953	141.86873			600552	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022108"		0.48	"marine habitat"	3693	"Open Ocean Transect, Deep sample"		-56.69667	141.875			115204	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022109"		0.48	"marine habitat"	3693	"Open Ocean Transect, Deep sample"		-56.69667	141.875			273388	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022110"		7.6	"marine habitat"	2	"Open Ocean Transect"		-52.02333	144.06567			632036	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022111"		11	"marine habitat"	2	"Open Ocean Transect"		-48.24867	145.805			578706	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022112"		11	"marine habitat"	2	"Open Ocean Transect"		-48.24867	145.805			498495	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022113"		14.75	"marine habitat"	2	"Open Ocean Transect"		-44.718	145.755			274421	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022114"		14.75	"marine habitat"	2	"Open Ocean Transect"		-44.718	145.755			274421	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022115"		-1.12	"marine habitat"	2.7	"Ross Sea, McMurdo Sound, Antarctica"		-77.6797	166.00913			339608	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022116"		-1.12	"marine habitat"	2.7	"Ross Sea, McMurdo Sound, Antarctica"		-77.6797	166.00913			524087	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022117"			"marine habitat"	1	"Ross Sea, McMurdo Sound, in the Sea Ice, Antarctica"		-77.70727	166.07877			309737	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022118"			"marine habitat"	1	"Ross Sea, McMurdo Sound, in the Sea Ice, Antarctica"		-77.70727	166.07877			177084	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022119"			"marine habitat"		"Ross Sea, McMurdo Sound, below sea Ice sample 370, Antarctica"		-77.70727	166.07877			312147	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022120"			"marine habitat"		"Ross Sea, McMurdo Sound, below sea Ice sample 370, Antarctica"		-77.70727	166.07877			285917	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022121"			"marine habitat"		"Ross Sea, McMurdo Sound, below sea Ice sample 370, Antarctica"		-77.70727	166.07877			303027	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022122"			"marine habitat"		"Ross Sea, McMurdo Sound, under sea Ice, Antactica"		-77.6819	166.0039			232048	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022123"			"marine habitat"		"Ross Sea, McMurdo Sound, under sea Ice, Antactica"		-77.6819	166.0039			383631	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022124"			"marine habitat"		"Ross Sea, McMurdo Sound, under sea Ice, Antactica"		-77.6819	166.0039			293385	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022125"		-13	"saline water"	1.8	"Organic Lake, Antarctica"		-68.46233	78.19663			566349	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022126"		-13	"saline water"	1.8	"Organic Lake, Antarctica"		-68.46233	78.19663			536138	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022127"		-13.5	"saline water"	4.3	"Organic Lake, Antarctica"		-68.46233	78.19663			535242	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022128"		-13	"saline water"	5.6	"Organic Lake, Antarctica"		-68.46233	78.19663			549618	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022129"		-12	"saline water"	6.5	"Organic Lake, Antarctica"		-68.46233	78.19663			529793	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022130"		-12	"saline water"	6.8	"Organic Lake, Antarctica"		-68.46233	78.19663			230423	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022131"		-13	"saline water"	1	"Organic Lake, Antarctica (Re-sample of surface water"		-68.46193	78.2063			508819	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022132"		2	"marine habitat"	1	"Southern Ocean"		-54.94833	129.62033			480504	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022133"		-1.4	"marine habitat"	1	"Southern Ocean"		-60.50267	120.048			184411	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022134"		-1.7	"marine habitat"	1	"Southern Ocean"		-63.818	115.17333			492900	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022135"		-1.7	"marine habitat"	1	"Southern Ocean"		-64.80333	112.38			245170	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022136"		-1.7	"marine habitat"	1	"Southern Ocean"		-64.80333	112.38			274971	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022137"		-1.7	"marine habitat"	1	"Southern Ocean"		-64.831	80.724			526779	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022138"		-1.3	"marine habitat"	1	"Southern Ocean"		-68.39643	76.68033			2	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022139"		-1.5	"marine habitat"	1	"Southern Ocean"		-64.19833	76.45733			196480	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022140"		2	"marine habitat"	1	"Southern Ocean"		-55.26467	74.25613			371374	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022141"		2	"marine habitat"	1	"Southern Ocean"		-55.26467	74.25613			148342	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022142"		2.4	"marine habitat"	1	"Southern Ocean"		-53.02473	73.37503			485801	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022143"			"saline water"	0	"Organic Lake, Antarctica"		-68.46233	78.19663			546620	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022144"		-0.5	"marine habitat"	1.829268293	"NewComb Bay, Antarctica"		-66.27	110.53333			192460	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022145"		-0.16	"marine habitat"	2	"Antarctica Open water"		-63.89067	112.07333			566776	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022146"		2.9	"marine habitat"	2	"East Antarctica Plain"		-59.312	142.4627			297801	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022147"		2.9	"marine habitat"	2	"East Antarctica Plain"		-59.312	142.4627			452235	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022148"		0.6	"marine habitat"	2	"CEAMARC-27 Antarctica Shelf-64 nm off continent.  Near pack ice"		-66.02133	142.666			300044	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022149"		0.6	"marine habitat"	2	"CEAMARC-27 Antarctica Shelf-64 nm off continent.  Near pack ice"		-66.02133	142.666			268919	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022150"		-0.11	"marine habitat"	1.5	"CEAMARC-61, 34 nm from Antarctica coast"		-66.3394	142.98807			471696	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022151"		-1.3	"marine habitat"	1.5	"CEAMARC-8. 16 nm from Antarctica"		-66.5662	142.3167			290759	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022152"		-1.3	"marine habitat"	1.5	"CEAMARC-8. 16 nm from Antarctica"		-66.5662	142.3167			257370	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022153"		-1.85	"marine habitat"	330	"CEAMARC-8, bottom sample, 16nm from Antarctica"		-66.5662	142.3167			593995	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022154"		-0.55	"marine habitat"	1.5	"CEAMARC-37, 18nm from Antarctica"		-66.55867	143.33733			939406	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022155"		-0.75	"marine habitat"	2.5	"CEAMARC-43.  6.3 nm from Antarctica"		-66.76503	143.29073			593054	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022156"		-0.75	"marine habitat"	2.5	"CEAMARC-43.  6.3 nm from Antarctica"		-66.76503	143.29073			502653	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022157"		-1.8	"marine habitat"	2	"CEAMARC-47  2nm from Antarctica and 9.5nm from Mertz Glacier"		-67.05213	144.66883			328779	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022158"		-1.9	"marine habitat"	1320	"CEAMARC-49A.  Deep sample 1nm from Mertz Glacier"		-67.0682	145.2021			637203	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022159"		-1.9	"marine habitat"	1320	"CEAMARC-49A.  Deep sample 1nm from Mertz Glacier"		-67.0682	145.2021			498122	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022160"		-0.9	"marine habitat"	2	"CEAMARC-59"		-66.76167	144.33433			422624	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022161"			"marine habitat"	890	"CEAMARC-59- Deep sample"		-66.76167	144.33433			523258	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022162"			"marine habitat"	890	"CEAMARC-59- Deep sample"		-66.76167	144.33433			488854	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022163"		-0.4	"marine habitat"	2	"Polyna-W-Compass-B Time series"		-66.1719	142.93533			489088	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022164"		0	"marine habitat"	2	"CASO-15  Off continental shelf"		-64.30007	150.00557			224187	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022165"		0	"marine habitat"	2	"CASO-15  Off continental shelf"		-64.30007	150.00557			236094	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022166"		-0.24	"marine habitat"	2	"Polynya-E. Time series"		-66.19027	143.49167			512122	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022167"		-0.24	"marine habitat"	2	"Polynya-E. Time series"		-66.19027	143.49167			827199	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022168"		-0.65	"marine habitat"	2	"CEAMARC-12. 10nm from shore of Dumont d''urville, french station"		-66.58167	140.8811			238757	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022169"		-0.65	"marine habitat"	2	"CEAMARC-12. 10nm from shore of Dumont d''urville, french station"		-66.58167	140.8811			285626	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022170"		-1.77	"marine habitat"	1170	"CEAMARC-70, 16 miles from Antarctica coast"		-66.47267	140.53767			575147	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022171"		0.7	"marine habitat"	2	"Iceberg-4, 250 meters away from 35km long and 18 km wide iceberg"		-65.5367	140.7234			299594	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022172"		0.7	"marine habitat"	2	"Iceberg-4, 250 meters away from 35km long and 18 km wide iceberg"		-65.5367	140.7234			243952	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022173"		3.3	"marine habitat"	2	"Transect from Antarctic to Hobart"		-60.00007	141.23353			514324	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022174"		4	"marine habitat"	2	"Open Ocean Transect"		-56.6953	141.86873			283188	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022175"		4	"marine habitat"	2	"Open Ocean Transect"		-56.6953	141.86873			208948	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022176"		0.48	"marine habitat"	3693	"Open Ocean Transect, Deep sample"		-56.69667	141.875			666409	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022177"		7.6	"marine habitat"	2	"Open Ocean Transect"		-52.02333	144.06567			313638	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022178"		11	"marine habitat"	2	"Open Ocean Transect"		-48.24867	145.805			462165	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022179"		14.75	"marine habitat"	2	"Open Ocean Transect"		-44.718	145.755			581620	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022180"		-1.12	"marine habitat"	2.7	"Ross Sea, McMurdo Sound, Antarctica"		-77.6797	166.00913			371725	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022181"			"marine habitat"	1	"Ross Sea, McMurdo Sound, in the Sea Ice, Antarctica"		-77.70727	166.07877			609136	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022182"		-13	"saline water"	1.8	"Organic Lake, Antarctica"		-68.46233	78.19663			379837	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022183"		-13.5	"saline water"	4.3	"Organic Lake, Antarctica"		-68.46233	78.19663			616546	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022184"		-13	"saline water"	5.6	"Organic Lake, Antarctica"		-68.46233	78.19663			413382	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022185"		-13	"saline water"	5.6	"Organic Lake, Antarctica"		-68.46233	78.19663			347844	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022186"		-12	"saline water"	6.5	"Organic Lake, Antarctica"		-68.46233	78.19663			561686	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022187"		-12	"saline water"	6.8	"Organic Lake, Antarctica"		-68.46233	78.19663			585538	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022188"		-12	"saline water"	6.8	"Organic Lake, Antarctica"		-68.46233	78.19663			623785	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022189"		-13	"saline water"	1	"Organic Lake, Antarctica (Re-sample of surface water"		-68.46193	78.2063			501234	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022191"		2	"marine habitat"	1	"Southern Ocean"		-54.94833	129.62033			384127	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022192"		2	"marine habitat"	1	"Southern Ocean"		-54.94833	129.62033			154210	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022193"		-1.4	"marine habitat"	1	"Southern Ocean"		-60.50267	120.048			479551	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022194"		-1.7	"marine habitat"	1	"Southern Ocean"		-63.818	115.17333			241757	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022195"		-1.7	"marine habitat"	1	"Southern Ocean"		-63.818	115.17333			236755	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022196"		-1.7	"marine habitat"	1	"Southern Ocean"		-64.80333	112.38			543280	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022197"		-1.7	"marine habitat"	1	"Southern Ocean"		-64.831	80.724			321540	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022198"		-1.7	"marine habitat"	1	"Southern Ocean"		-64.831	80.724			160282	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022199"		-1.3	"marine habitat"	1	"Southern Ocean"		-68.39643	76.68033			430312	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022200"		-1.5	"marine habitat"	1	"Southern Ocean"		-64.19833	76.45733			711157	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022201"		2	"marine habitat"	1	"Southern Ocean"		-55.26467	74.25613			788296	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022202"		2.4	"marine habitat"	1	"Southern Ocean"		-53.02473	73.37503			310548	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022204"		-1.4	"marine habitat"	1	"Southern Ocean"		-60.50267	120.048			263283	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022206"		7.6	"marine habitat"	2	"Open Ocean Transect"		-52.02333	144.06567			205727	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA022813"		-1.8	"marine habitat"	2	"CEAMARC-47  2nm from Antarctica and 9.5nm from Mertz Glacier"		-67.05213	144.66883			264498	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA023092"		-0.16	"marine habitat"	2	"Antarctica Open water"		-63.89067	112.07333			379142	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA023093"		-12	"saline water"	6.5	"Organic Lake, Antarctica"		-68.46233	78.19663			215151	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA023094"		-13	"saline water"	1	"Organic Lake, Antarctica (Re-sample of surface water"		-68.46193	78.2063			298243	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA023095"		-1.5	"marine habitat"	1	"Southern Ocean"		-64.19833	76.45733			337860	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA023096"		-13.5	"saline water"	4.3	"Organic Lake, Antarctica"		-68.46233	78.19663			188182	"pyrosequencing (454)"		
+"Antarctica Aquatic Microbial Metagenome"		33179	"metagenome"	"CAMERA"	"CAM_SMPL_SRA023097"		-1.3	"marine habitat"	1	"Southern Ocean"		-68.39643	76.68033			244910	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_150-JAN_DAY"		10.01	"saline water"	50	"Western Channel"		50.251667	-4.208889			137207	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_151-JAN_DAY_PREFILTER"		10.01	"saline water"	50	"Western Channel"		50.251667	-4.208889			139880	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_152-JAN_NIGHT_PREFILTER"		10.05	"saline water"	50	"Western Channel"		50.261112	-4.2436113			130826	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_153-APR_DAY_PREFILTER"		9.7	"saline water"	50	"Western Channel"		50.251667	-4.208889			124925	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_154-APR_NIGHT_PREFILTER"		9.6	"saline water"	50	"Western Channel"		50.253056	-4.1875			147492	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_155-APR_DAY"		9.7	"saline water"	50	"Western Channel"		50.251667	-4.208889			213056	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_156-AUG_4PM_PREFILTER"		15.9	"saline water"	50	"Western Channel"		50.253334	-4.201667			139375	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_157-AUG_10PM_PREFILTER"		15.8	"saline water"	50	"Western Channel"		50.254444	-4.198889			193254	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_158-AUG_4AM_PREFILTER"		15.7	"saline water"	50	"Western Channel"		50.266388	-4.148611			154865	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_159-AUG_10AM_PREFILTER"		15.8	"saline water"	50	"Western Channel"		50.266388	-4.148611			85823	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_170_JAN_DAY_PF"		10.01	"saline water"	50			50.251667	-4.208889			9949	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_171_JAN_NIGHT_PF"		10.05	"saline water"	50			50.261112	-4.2436113			9954	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_172_AUG_4PM_PF"		15.9	"saline water"	50			50.253334	-4.201667			9840	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_173_AUG_10PM_PF"		15.8	"saline water"	50			50.254444	-4.198889			10782	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_174_AUG_4AM_PF"		15.7	"saline water"	50			50.266388	-4.148611			15855	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_175_AUG_10AM_PF"		15.8	"saline water"	50			50.266388	-4.148611			15554	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_176_APR_DAY_PF"		9.7	"saline water"	50			50.251667	-4.208889			11780	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_177_APR_NIGHT_PF"		9.6	"saline water"	50			50.253056	-4.1875			9472	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_178_JAN_DAY"		10.01	"saline water"	50			50.251667	-4.208889			26702	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_179_APR_DAY"		9.7	"saline water"	50			50.251667	-4.208889			16137	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_APR_DAY"		9.7	"saline water"	50	"Western Channel"		50.251667	-4.208889			421021	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_APR_DAY_PF"		9.7	"saline water"	50	"Western Channel"		50.251667	-4.208889			637801	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_APR_NIGHT_PF"		9.6	"saline water"	50	"Western Channel"		50.253056	-4.1875			493002	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_AUG_10AM_PF"		15.8	"saline water"	50	"Western Channel"		50.266388	-4.148611			326474	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_AUG_10PM_PF"		15.8	"saline water"	50	"Western Channel"		50.254444	-4.198889			524953	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_AUG_4AM_PF"		15.7	"saline water"	50	"Western Channel"		50.266388	-4.148611			500116	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_AUG_4PM_PF"		15.9	"saline water"	50	"Western Channel"		50.253334	-4.201667			620757	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_JAN_DAY"		10.01	"saline water"	50	"Western Channel"		50.251667	-4.208889			826289	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_JAN_DAY_PF"		10.01	"saline water"	50	"Western Channel"		50.251667	-4.208889			616791	"pyrosequencing (454)"		
+"Western Channel Observatory Microbial Metagenomic Study"		46599	"metagenome"	"CAMERA"	"WESTERNCHANNELOMM_SMPL_JAN_NIGHT_PF"		10.05	"saline water"	50	"Western Channel"		50.261112	-4.2436113			784822	"pyrosequencing (454)"		
+"Virome Archimedes3"		47425	"virome"	"CAMERA"	"CAM_SMPL_000825"		2.04	"seawater"	5200	"Atlantic:Equatorial"		1.1903	-12.9568			90174	"pyrosequencing (454)"		
+"Virome BADE1"		47427	"virome"	"CAMERA"	"CAM_SMPL_000845"		13.1	"seawater"	2400	"Mediterranean Sea"		37.18	14.98			104669	"pyrosequencing (454)"		
+"Uncultured virus Saanichss Achan-JL3"		47431	"virome"	"CAMERA"	"CAM_SMPL_001004"			"seawater"	10	"Saanich Inlet"		48.62	-123.5775			96950	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.25	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.43	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.44	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000971"		9.44	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			268557	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.19	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.23	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.23	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.25	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.38	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.4	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.43	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000989"		9.44	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			221802	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000965"		9.23	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			171406	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000965"		9.25	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			171406	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000965"		9.26	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			171406	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000965"		9.27	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			171406	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000965"		9.28	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			171406	"pyrosequencing (454)"		
+"Virome Saanich Suttle Anoxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000965"		9.33	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			171406	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		7.3	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		7.34	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		7.49	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		7.51	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		7.65	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		7.72	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		8.31	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-1"		47431	"virome"	"CAMERA"	"CAM_SMPL_000993"		8.5	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			312563	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		8.14	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		8.32	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		9.77	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		10.22	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		12.33	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		12.83	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		13.19	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-2"		47431	"virome"	"CAMERA"	"CAM_SMPL_000982"		13.36	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			252792	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000964"		8.96	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			262809	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000964"		9.05	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			262809	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000964"		10.66	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			262809	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000964"		10.68	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			262809	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000964"		12.11	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			262809	"pyrosequencing (454)"		
+"Virome Saanich Suttle Oxic-3"		47431	"virome"	"CAMERA"	"CAM_SMPL_000964"		13.28	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			262809	"pyrosequencing (454)"		
+"Virome Anaerobic oil degrading sediment virome"		47435	"virome"	"CAMERA"	"CAM_SMPL_000803"		14	"Marine Sediment"	22	"Pacific"		34.45	-119.89			110191	"pyrosequencing (454)"		
+"Virome Benthic methanotrophic mats virome"		47435	"virome"	"CAMERA"	"CAM_SMPL_000831"		14	"microbial mat (marine; benthic)"	22	"Pacific"		34.45	-119.89			228827	"pyrosequencing (454)"		
+"Virome Methanogenic sediments virome"		47435	"virome"	"CAMERA"	"CAM_SMPL_000832"		4.1	"Marine Sediment; 200cm subsurface depth."	580	"Pacific"		34.2245	-120.03433			97560	"pyrosequencing (454)"		
+"Virome Kelp forest virome"		47439	"virome"	"CAMERA"	"CAM_SMPL_000717"		12	"water"	1	"Pt Loma San Diego"		32.665	-117.277778			213171	"pyrosequencing (454)"		
+"Virome Appledore Island sediment RNA virome"		47449	"virome"	"CAMERA"	"CAM_SMPL_000954"		14.8	"marine sediment"	0.5	"Babs Cove"		42.9892582	-70.6144937			98103	"pyrosequencing (454)"		
+"Virome Appledore Island water column RNA virome"		47451	"virome"	"CAMERA"	"CAM_SMPL_000996"		14.8	"seawater"	0.5	"Babs Cove"		42.9892582	-70.6144937			48554	"pyrosequencing (454)"		
+"Virome 020/01/20.3m"		47455	"virome"	"CAMERA"	"CAM_SMPL_000999"		12.04	"seawater"	20.3	"Argentine Sea"		-45.00018	-61.29991			153852	"pyrosequencing (454)"		
+"Virome 072/01/2.3m"		47455	"virome"	"CAMERA"	"CAM_SMPL_000958"		11.53	"seawater"	2.3	"Argentine Sea"		-49.45002	-60.2825			241571	"pyrosequencing (454)"		
+"Virome 142/01/15.5m"		47455	"virome"	"CAMERA"	"CAM_SMPL_000987"		9	"seawater"	15.5	"Argentine Sea"		-52.36382	-60.16867			300136	"pyrosequencing (454)"		
+"Virome Minimetagenomics 1"		47455	"virome"	"CAMERA"	"CAM_SMPL_000988"		9	"seawater"	15.5	"Argentine Sea"		-52.36382	-60.16867			202525	"pyrosequencing (454)"		
+"Virome Minimetagenomics 2"		47455	"virome"	"CAMERA"	"CAM_SMPL_001013"		9	"seawater"	15.5	"Argentine Sea"		-52.36382	-60.16867			212996	"pyrosequencing (454)"		
+"Virome Minimetagenomics 3"		47455	"virome"	"CAMERA"	"CAM_SMPL_000959"		9	"seawater"	15.5	"Argentine Sea"		-52.36382	-60.16867			184906	"pyrosequencing (454)"		
+"Virome Minimetagenomics 4"		47455	"virome"	"CAMERA"	"CAM_SMPL_000980"		9	"seawater"	15.5	"Argentine Sea"		-52.36382	-60.16867			278821	"pyrosequencing (454)"		
+"Arctic first-year summer sea ice, Beaufort Sea"		47457	"virome"	"CAMERA"	"CAM_SMPL_000810"		0.5	"Sea ice"	0.7							115063	"pyrosequencing (454)"		
+"Virome Arctic cryopeg brine"		47457	"virome"	"CAMERA"	"CAM_SMPL_000811"		-5	"Saline water"	6	"Arctic: Permafrost Shaft"		71.290556	-156.788611			227899	"pyrosequencing (454)"		
+"Virome FeCl method-1"		47463	"virome"	"CAMERA"	"CAM_SMPL_000722"		16.3	"seawater"	3	"Pacific Ocean"		32.867	-117.257			172745	"pyrosequencing (454)"		
+"Virome FeCl method-2"		47463	"virome"	"CAMERA"	"CAM_SMPL_000723"		16.3	"seawater"	3	"Pacific Ocean"		32.867	-117.257			94832	"pyrosequencing (454)"		
+"Virome FeCl method-3"		47463	"virome"	"CAMERA"	"CAM_SMPL_000724"		16.3	"seawater"	3	"Pacific Ocean"		32.867	-117.257			175121	"pyrosequencing (454)"		
+"Virome FeCl method-4"		47463	"virome"	"CAMERA"	"CAM_SMPL_000725"		16.3	"seawater"	3	"Pacific Ocean"		32.867	-117.257			218300	"pyrosequencing (454)"		
+"Virome FeCl method-5"		47463	"virome"	"CAMERA"	"CAM_SMPL_000726"		16.3	"seawater"	3	"Pacific Ocean"		32.867	-117.257			162078	"pyrosequencing (454)"		
+"Virome FeCl method-6"		47463	"virome"	"CAMERA"	"CAM_SMPL_000727"		16.3	"seawater"	3	"Pacific Ocean"		32.867	-117.257			124120	"pyrosequencing (454)"		
+"Virome Helgoland after bloom virome"		47465	"virome"	"CAMERA"	"CAM_SMPL_001015"		13.2	"seawater"	0.5	"Atlantic:North Sea"		54.1873	7.8964			355400	"pyrosequencing (454)"		
+"Virome Helgoland during bloom virome"		47465	"virome"	"CAMERA"	"CAM_SMPL_000972"		6.4	"seawater"	0.5	"Atlantic:North Sea"		54.1873	7.8964			335347	"pyrosequencing (454)"		
+"1000 meters DNA"		47467	"virome"	"CAMERA"	"CAM_SMPL_000813"		7	"seawater"	1000	"near BATS"		32	-64			214449	"pyrosequencing (454)"		
+"1000 meters RNA"		47467	"virome"	"CAMERA"	"CAM_SMPL_000829"		7	"seawater"	1000	"near BATS"		32	-64			239048	"pyrosequencing (454)"		
+"G2810"		47471	"virome"	"CAMERA"	"CAM_SMPL_A0003"		13			"G2810"		47.95	-129.0968			231246	"pyrosequencing (454)"		
+"VAGALB1/1"		47473	"virome"	"CAMERA"	"CAM_SMPL_000842"		2.7	"marine sediment"	3670	"Bay of Biscay (NE Atlantic Ocean)"		41.7309	-10.68238			169762	"pyrosequencing (454)"		
+"VASVAL242/1"		47475	"virome"	"CAMERA"	"CAM_SMPL_000835"		2	"marine sediment"	5632	"Arctic Ocean"		79.1335	2.8423			147478	"pyrosequencing (454)"		
+"Virome ME-08-1"		47483	"virome"	"CAMERA"	"CAM_SMPL_000819"		12	"PFGE bands"	1	"Raunefjorden"		60	5			150076	"pyrosequencing (454)"		
+"Virome ME-08-2"		47483	"virome"	"CAMERA"	"CAM_SMPL_000826"		12	"PFGE bands"	1	"Raunefjorden"		60	5			166940	"pyrosequencing (454)"		
+"Virome ME-08-3"		47483	"virome"	"CAMERA"	"CAM_SMPL_000847"		12	"PFGE bands"	1	"Raunefjorden"		60	5			121688	"pyrosequencing (454)"		
+"Virome ME-08-4"		47483	"virome"	"CAMERA"	"CAM_SMPL_000820"		12	"PFGE bands"	1	"Raunefjorden"		60	5			170860	"pyrosequencing (454)"		
+"Virome ME-08-6"		47483	"virome"	"CAMERA"	"CAM_SMPL_000827"		12	"PFGE bands"	1	"Raunefjorden"		60	5			136262	"pyrosequencing (454)"		
+"Virome ME-08-7"		47483	"virome"	"CAMERA"	"CAM_SMPL_000828"		12	"PFGE bands"	1	"Raunefjorden"		60	5			45494	"pyrosequencing (454)"		
+"Virome ME-08-8"		47483	"virome"	"CAMERA"	"CAM_SMPL_000821"		12	"PFGE bands"	1	"Raunefjorden"		60	5			169279	"pyrosequencing (454)"		
+"Virome ME-08-9"		47483	"virome"	"CAMERA"	"CAM_SMPL_000808"		12	"PFGE bands"	1	"Raunefjorden"		60	5			132133	"pyrosequencing (454)"		
+"Virome EPR hydrothermal vent: Extracellular RNA virome"		47485	"virome"	"CAMERA"	"CAM_SMPL_000718"		5.5	"Diffuse Flow Hydrothermal Vent Seawater"	2505	"Pacific"		9.5032	-104.1748			174663	"pyrosequencing (454)"		
+"Virome EPR hydrothermal vent: Extracellular ssDNA virome"		47485	"virome"	"CAMERA"	"CAM_SMPL_000719"		5.5	"Diffuse Flow Hydrothermal Vent Seawater"	2505	"Pacific"		9.5032	-104.1748			127601	"pyrosequencing (454)"		
+"Virome EPR hydrothermal vent: Induced RNA virome"		47485	"virome"	"CAMERA"	"CAM_SMPL_000720"		15	"Diffuse Flow Hydrothermal Vent Seawater"	2511	"Pacific"		9.5017	-104.1746			123595	"pyrosequencing (454)"		
+"Virome EPR hydrothermal vent: Induced ssDNA virome"		47485	"virome"	"CAMERA"	"CAM_SMPL_000721"		15	"Diffuse Flow Hydrothermal Vent Seawater"	2511	"Pacific"		9.5017	-104.1746			187796	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		2.78	"seawater"	2	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-0.4	"seawater"	52	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.09	"seawater"	55	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.1	"seawater"	24	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.28	"seawater"	26	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.29	"seawater"	39	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.37	"seawater"	1	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.44	"seawater"	8	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.46	"seawater"	20	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.48	"seawater"	23	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.65	"seawater"	20	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.65	"seawater"	25	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.67	"seawater"	33	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.68	"seawater"	16	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"Virome Suttle GOB5"		50457	"virome"	"CAMERA"	"CAM_SMPL_000992"		-1.69	"seawater"	20	"Arctic: Amundsen Gulf,  Beaufort Sea"		70.03	-126.3			242045	"pyrosequencing (454)"		
+"12C Fraction Aerobic Sediment Virome"		52287	"virome"	"CAMERA"	"CAM_SMPL_000846"		14	"Marine sediments"	22	"Pacific"		34.45	-119.89			243294	"pyrosequencing (454)"		
+"12C Fraction ANME Virome"		52287	"virome"	"CAMERA"	"CAM_SMPL_000807"		5.3	"Marine sediments"	805	"Pacific"		33.75	-118.67			204594	"pyrosequencing (454)"		
+"13C-Enriched Aurobic Sediment Virome"		52287	"virome"	"CAMERA"	"CAM_SMPL_000817"		14	"Marine sediments"	22	"Pacific"		34.45	-119.89			199514	"pyrosequencing (454)"		
+"Virome 13C-enriched ANME virome"		52287	"virome"	"CAMERA"	"CAM_SMPL_000839"		5.3	"Marine sediments"	805	"Pacific"		33.75	-118.67			228819	"pyrosequencing (454)"		
+"Virome Arctic frost flowers"		52293	"virome"	"CAMERA"	"CAM_SMPL_000812"		-12.3	"Saline snow"		"Arctic:Chukchi Sea"		71.618194	-156.860083			227662	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-1"		52301	"virome"	"CAMERA"	"CAM_SMPL_001011"		5.96	"seawater"	10	"Pacific Ocean"		50	-145			325857	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-10"		52301	"virome"	"CAMERA"	"CAM_SMPL_000979"		3.07	"seawater"	1300	"Pacific Ocean"		48.39	-123.4			296016	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-2"		52301	"virome"	"CAMERA"	"CAM_SMPL_000985"		3.91	"seawater"	500	"Pacific Ocean"		50	-145			344039	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-3"		52301	"virome"	"CAMERA"	"CAM_SMPL_000998"		2.9	"seawater"	1000	"Pacific Ocean"		50	-145			332263	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-4"		52301	"virome"	"CAMERA"	"CAM_SMPL_000956"		1.93	"seawater"	2000	"Pacific Ocean"		50	-145			267169	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-5"		52301	"virome"	"CAMERA"	"CAM_SMPL_000957"		4.22	"seawater"	500	"Pacific Ocean"		48.582	-130.4			265601	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-6"		52301	"virome"	"CAMERA"	"CAM_SMPL_001003"		3.22	"seawater"	1000	"Pacific Ocean"		48.582	-130.4			331803	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-7"		52301	"virome"	"CAMERA"	"CAM_SMPL_000986"		1.95	"seawater"	2000	"Pacific Ocean"		48.582	-130.4			304409	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-8"		52301	"virome"	"CAMERA"	"CAM_SMPL_001012"		13.25	"seawater"	500	"Pacific Ocean"		48.39	-123.4			337451	"pyrosequencing (454)"		
+"Virome Subarctic Pacific-9"		52301	"virome"	"CAMERA"	"CAM_SMPL_000970"		3.78	"seawater"	1000	"Pacific Ocean"		48.39	-123.4			276096	"pyrosequencing (454)"		
+"Virome Archaeal dominated cold seeps Costa Rica dsDNA virome"		52305	"virome"	"CAMERA"	"CAM_SMPL_000840"		3.69	"sediment"	517	"Eel River"		40.7864683333333	-124.595091666666			266554	"pyrosequencing (454)"		
+"Virome Archaeal dominated cold seeps Costa Rica RNA virome"		52305	"virome"	"CAMERA"	"CAM_SMPL_000805"		3.69	"sediment"	517	"Eel River"		40.7864683333333	-124.595091666666			239275	"pyrosequencing (454)"		
+"Virome Archaeal dominated cold seeps Costa Rica ssDNA virome"		52305	"virome"	"CAMERA"	"CAM_SMPL_000841"		3.69	"sediment"	517	"Eel River"		40.7864683333333	-124.595091666666			228925	"pyrosequencing (454)"		
+"Black Sea Sediment Metagenome"		52309	"virome"	"CAMERA"	"CAM_SMPL_000799"		9.02	"marine sediment"	1970	"Black Sea"		42.99839	31.51629			205938	"pyrosequencing (454)"		
+"Virome Whittard Canyon (VAWC1/1)"		52311	"virome"	"CAMERA"	"CAM_SMPL_000843"			"marine sediment"	3077	"Irish Sea (NE Atlantic Ocean)"		48.1541	-10.5606			224193	"pyrosequencing (454)"		
+"Virome Gulf of Maine 1"		52315	"virome"	"CAMERA"	"CAM_SMPL_000974"		16.96	"seawater"	1	"Atlantic"		43.36745	-67.55262			208207	"pyrosequencing (454)"		
+"Virome Gulf of Maine 2"		52315	"virome"	"CAMERA"	"CAM_SMPL_000960"		16.96	"seawater"	1	"Atlantic"		43.36745	-67.55262			150042	"pyrosequencing (454)"		
+"Viral metagenome RIFCO pool"		52329	"virome"	"CAMERA"	"CAM_SMPL_001172"		10	"groundwater"		"Rifle DOE IFRC, Rifle Colorado"		39.53	-107.73			194236	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		11.1	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		12	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		14.2	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		15.8	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		15.8	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		15.9	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		15.9	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake227 Freshwater Metagenome"		52331	"virome"	"CAMERA"	"CAM_SMPL_000800"		16.5	"Freshwater"	1	"Lake 227, Experimental Lakes Area, Ontario"		49.69	-93.69			246799	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"		7.8	"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"		15.6	"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"		16.2	"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"		16.3	"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"		16.8	"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"			"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome Lake239 Freshwater Metagenome"		52333	"virome"	"CAMERA"	"CAM_SMPL_000814"			"Freshwater"	1	"Lake 239, Experimental Lakes Area, Ontario"		49.66	-93.72			200505	"pyrosequencing (454)"		
+"Virome induced lysogens 030409-2a"		52403	"virome"	"CAMERA"	"CAM_SMPL_000844"		15	"seawater"	3	"Estuary"		27.7737	-82.6215			194325	"pyrosequencing (454)"		
+"Virome induced lysogens 030409-2i"		52403	"virome"	"CAMERA"	"CAM_SMPL_000838"		15	"seawater"	3	"Estuary"		27.7737	-82.6215			208244	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001050"		12.2	"freshwater"	10	"Yellowstone lakes, USA"						422632	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001051"		12.2	"freshwater"	10	"Yellowstone lakes, USA"						539728	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001080"		12.2	"freshwater"	10	"Yellowstone lakes, USA"						509389	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001054"		12.3	"freshwater"	10	"Yellowstone lakes, USA"						580556	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001055"		12.3	"freshwater"	10	"Yellowstone lakes, USA"						526420	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001056"		12.3	"freshwater"	10	"Yellowstone lakes, USA"						587042	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001068"		12.3	"freshwater"	10	"Yellowstone lakes, USA"						420663	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001076"		12.3	"freshwater"	10	"Yellowstone lakes, USA"						601329	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001082"		12.3	"freshwater"	10	"Yellowstone lakes, USA"						636147	"pyrosequencing (454)"		
+"Yellowstone Lake"		60433	"metagenome"	"CAMERA"	"CAM_SMPL_001067"		13	"freshwater"	14.1	"Yellowstone lakes, USA"						550823	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_462"		2.97	"saline water"		2060		27.506	-111.346966666667			421004	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_463"		3	"hydrothermal vent"		2050		27.506	-111.346966666667			954569	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_464"		2.97	"saline water"		2060		27.506	-111.346966666667			570580	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_465"		2.58	"saline water"		2771		26.38	-110.728416666667			462850	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_466"		2.96	"hydrothermal vent"		2040		27.0181666666667	-111.417666666667			640069	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_467"		2.58	"saline water"		2771		26.38	-110.728416666667			546704	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_468"		2.93	"hydrothermal vent"		2771		27.0458333333333	-111.3815			758433	"pyrosequencing (454)"		
+"Guaymas Basin deep-sea Metagenome"		72707	"metagenome"	"CAMERA"	"CAM_S_469"		2.95	"hydrothermal vent"		1775		27.0166666666667	-111.4155			616464	"pyrosequencing (454)"		
+"Microbial Oceanography Course "			"metagenome"	"CAMERA"	"CAM_SMPL_001119"		11.03153	"marine habitat"	800	"Northwestern Sargasso Sea"		32.163083	-64.502867			1233	"pyrosequencing (454)"		
+"Microbial Oceanography Course "			"metagenome"	"CAMERA"	"CAM_SMPL_001128"		6.80241	"marine habitat"	1000	"Northwestern Sargasso Sea"		32.16955	-64.505067			1130	"pyrosequencing (454)"		
+"Ocean Viruses"			"virome"	"CAMERA"	"SCUMS_SMPL_Arctic"		-1.5	"saline water"	2	"Canadian Arctic"		70.69334	-136.42334			688590	"pyrosequencing (454)"		
+"Ocean Viruses"			"virome"	"CAMERA"	"SCUMS_SMPL_Arctic"		-1.4	"saline water"	10	"Arctic, Chukchi Sea"		73.16167	-159.44667			688590	"pyrosequencing (454)"		
+"Ocean Viruses"			"virome"	"CAMERA"	"SCUMS_SMPL_BBC"		7	"saline water"	0	"Bay of British Columbia"		49.705	-124.35167			416456	"pyrosequencing (454)"		
+"iron sequestration in marine pennate diatoms"			"transcriptome"	"CAMERA"	"MARINEPENNATEDIATOMS_SMPL_PAPA_GO_1_CONTROL"		6.52	"saline water"		"Station PAPA"		50	-145			243315	"pyrosequencing (454)"		
+"iron sequestration in marine pennate diatoms"			"transcriptome"	"CAMERA"	"MARINEPENNATEDIATOMS_SMPL_PAPA_GO_2_+FE"		"8.1-10.3"	"saline water"		"Station PAPA"		50	-145			177688	"pyrosequencing (454)"		
+"Viral Metagenome from the Freshwater Lake Limnopolar"			"virome"	"CAMERA"	"LAKELIMNOPOLARVIROME_SMPL_VIROMESPRING"		0	"fresh water"		"lake Limnopolar"		-61.218613	-62.676388			46813	"pyrosequencing (454)"		
+"Viral Metagenome from the Freshwater Lake Limnopolar"			"virome"	"CAMERA"	"LAKELIMNOPOLARVIROME_SMPL_VIROMESUMMER"			"fresh water"		"lake Limnopolar"		-61.218613	-62.676388			42534	"pyrosequencing (454)"		
+"Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000990"		11.97	"seawater"	30	"Pacific Ocean: Southern California Bight"		33.55	-118.4			247306	"pyrosequencing (454)"		
+"Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000990"		13.2	"seawater"	13	"Pacific Ocean: Southern California Bight"		33.55	-118.4			247306	"pyrosequencing (454)"		
+"Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000990"		14.16	"seawater"	5	"Pacific Ocean: Southern California Bight"		33.55	-118.4			247306	"pyrosequencing (454)"		
+"Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000990"		16	"seawater"	22	"Pacific Ocean: Southern California Bight"		33.55	-118.4			247306	"pyrosequencing (454)"		
+"Uncultured virus Virus 1. San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000990"		16.54	"seawater"	5	"Pacific Ocean: Southern California Bight"		33.55	-118.4			247306	"pyrosequencing (454)"		
+"Uncultured virus Virus 2.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000961"		9.47	"seawater"	150	"Pacific Ocean: Southern California Bight"		33.55	-118.4			272681	"pyrosequencing (454)"		
+"Uncultured virus Virus 2.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000961"		9.53	"seawater"	150	"Pacific Ocean: Southern California Bight"		33.55	-118.4			272681	"pyrosequencing (454)"		
+"Uncultured virus Virus 2.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000961"		9.55	"seawater"	150	"Pacific Ocean: Southern California Bight"		33.55	-118.4			272681	"pyrosequencing (454)"		
+"Uncultured virus Virus 3.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000962"		6.45	"seawater"	500	"Pacific Ocean: Southern California Bight"		33.55	-118.4			191687	"pyrosequencing (454)"		
+"Uncultured virus Virus 3.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000962"		6.47	"seawater"	500	"Pacific Ocean: Southern California Bight"		33.55	-118.4			191687	"pyrosequencing (454)"		
+"Uncultured virus Virus 3.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_000962"		6.97	"seawater"	500	"Pacific Ocean: Southern California Bight"		33.55	-118.4			191687	"pyrosequencing (454)"		
+"Uncultured virus Virus 4.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_001014"		5.12	"seawater"	885	"Pacific Ocean: Southern California Bight"		33.55	-118.4			245384	"pyrosequencing (454)"		
+"Uncultured virus Virus 4.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_001014"		5.15	"seawater"	885	"Pacific Ocean: Southern California Bight"		33.55	-118.4			245384	"pyrosequencing (454)"		
+"Uncultured virus Virus 4.  San Pedro Ocean Time Series Microbial Observatory"			"virome"	"CAMERA"	"CAM_SMPL_001014"		5.19	"seawater"	885	"Pacific Ocean: Southern California Bight"		33.55	-118.4			245384	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		13.6	"seawater"	17	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		13.6	"seawater"	17	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		14.4	"seawater"	30	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		14.4	"seawater"	30	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		15	"seawater"	15.5	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		16.03	"seawater"	5	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"		16.9	"seawater"	5	"Pacific Ocean: Southern California Bight"		33.33	-118.24			43366	"pyrosequencing (454)"		
+"Uncultured virus Virus 5."			"virome"	"CAMERA"	"CAM_SMPL_001005"			"biofilm"	860	"Pacific Ocean: Hydrate Ridge/Oregon Margin"		44.652	125.096			43366	"pyrosequencing (454)"		
+"Virome ANME virome"			"virome"	"CAMERA"	"CAM_SMPL_000818"		5.3	"Marine sediments"	805	"Pacific"		33.75	-118.67			206759	"pyrosequencing (454)"		
+"Virome Baseline from CO2 enrichment experiment"			"virome"	"CAMERA"	"CAM_SMPL_000715"		14	"water"	1	"Pt Loma San Diego"		32.665	-117.277778			221907	"pyrosequencing (454)"		
+"Virome CO2-augmented seawater virome"			"virome"	"CAMERA"	"CAM_SMPL_000716"		12	"water"	1	"Pt Loma San Diego"		32.665	-117.277778			235292	"pyrosequencing (454)"		
+"Virome Suboxic marine basin virome"			"virome"	"CAMERA"	"CAM_SMPL_000833"		5.3	"Marine sediments"	805	"Pacific"		33.75	-118.67			223500	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Anoxic"			"virome"	"CAMERA"	"CAM_SMPL_000975"		9.38	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			161118	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Anoxic"			"virome"	"CAMERA"	"CAM_SMPL_000975"		9.42	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			161118	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Anoxic"			"virome"	"CAMERA"	"CAM_SMPL_000975"		9.43	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			161118	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Anoxic"			"virome"	"CAMERA"	"CAM_SMPL_000975"		9.43	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			161118	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Anoxic"			"virome"	"CAMERA"	"CAM_SMPL_000975"		9.44	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			161118	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Anoxic"			"virome"	"CAMERA"	"CAM_SMPL_000975"		9.44	"seawater"	200	"Pacific: Strait of Georgia"		48.35	-123.3			161118	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		7.49	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		7.51	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		7.65	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		9.05	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		9.05	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		9.77	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB Saanich Oxic"			"virome"	"CAMERA"	"CAM_SMPL_001016"		12.83	"seawater"	10	"Pacific: Strait of Georgia"		48.35	-123.3			181000	"pyrosequencing (454)"		
+"Virome Suttle GOB2"			"virome"	"CAMERA"	"CAM_SMPL_001017"		14.4	"seawater"	0.5	"Strait of Georgia"		49.19	-123.15			236433	"pyrosequencing (454)"		
+"Virome Suttle GOB3"			"virome"	"CAMERA"	"CAM_SMPL_001007"		8.33	"seawater"	0.5	"Strait of Georgia"		48.28	-123.19			168589	"pyrosequencing (454)"		
+"ALOHA deep sea metagenome"			"metagenome"			2009	4	"deep seawater"		"Station ALOHA, Hawaii"								"http://aem.asm.org/cgi/content/full/75/16/5345"	
+"Antarctic Archaea Fosmids"			"metagenome"			2002	"-2 to 2"	"coastal seawater"		"Antarctica"								"http://aem.asm.org/cgi/content/full/68/1/335"	
+"Antarctic Genome Fragments"			"metagenome"			2003	"-2 to 2"	"coastal seawater"		"Antarctica"								"http://www.pnas.org/content/100/22/12830.abstract"	
+"Antarctic Polar Front metagenome"			"metagenome"			2004	"-2 to 2"	"deep seawater"		"Antarctica (4000 m)"								"http://www.ncbi.nlm.nih.gov/pubmed/15305921"	
+"Green Sulfur Bacterium"			"metagenome"			2008		"meromictic lake"		"Ace Lake, Antarctica"		"68° 28.33′ S, 78° 11.29′ E"						"http://www.nature.com/ismej/journal/v4/n8/abs/ismej201028a.html"	
+																			
+																			
+"MGRAST_Project"	"Metagenome "			"MG-RAST"	"MGRAST_ID"		"MGRAST_Temperature "	"MGRAST_Biome"		"MGRAST_Location"	"MGRAST_Country"								"MGRAST_PI"
+"Antarctica Aquatic Microbial Metagenome"	"AntarcticaAquatic_8"			"MG-RAST"	4443686.3		-0.5	"marine habitat"		"Newcomb Bay, Antarctica"	"Antarctica"								"Hoffman"
+"Antarctica Aquatic Microbial Metagenome"	"AntarcticaAquatic_9"			"MG-RAST"	4443687.3		-0.16	"marine habitat"		"Antarctic Territory Claimed by Australia"	"Antarctica"								"Hoffman"
+"HulkVentVirome"	"HulkVentVirome"			"MG-RAST"	4448187.3		"13--130"	"extreme habitat ; marine habitat ; hydrothermal vent"		"Juan de Fuca Ridge"	"United States of America"								
+"MBv200m"	"MBv200m"			"MG-RAST"	4461422.3		8.5	"Aphotic zone ; marine habitat ; aquatic habitat"		"Monterey Bay, CA"	"United States of America"								
+"Global Ocean Sampling Expedition"	"GS003 Shotgun - Coastal - North American East Coast - Browns Bank, Gulf of Maine - Canada"			"MG-RAST"	4441580.3		11.7	"marine habitat"		"Browns Bank, Gulf of Maine"	"Canada"								"Venter"
+"Global Ocean Sampling Expedition"	"GS005 Shotgun - Embayment - North American East Coast - Bedford Basin, Nova Scotia - Canada"			"MG-RAST"	4441581.3		15	"marine habitat"		"Bedford Basin, Nova Scotia"	"Canada"								"Venter"
+"Global Ocean Sampling Expedition"	"GS006 Shotgun - Estuary - North American East Coast - Bay of Fundy, Nova Scotia - Canada"			"MG-RAST"	4441582.3		11.2	"marine habitat"		"Bay of Fundy, Nova Scotia"	"Canada"								"Venter"
+"Global Ocean Sampling Expedition"	"GS008 Shotgun - Coastal - North American East Coast - Newport Harbor, RI - USA"			"MG-RAST"	4441583.3		9.4	"marine habitat"		"Newport Harbor, RI"	"United States of America"								"Venter"
+"Global Ocean Sampling Expedition"	"GS009 Shotgun - Coastal - North American East Coast - Block Island, NY - USA"			"MG-RAST"	4441143.3		11	"marine habitat"		"Block Island, NY"	"United States of America"								"Venter"
+"Global Ocean Sampling Expedition"	"GS010 Shotgun - Coastal - North American East Coast - Cape May, NJ - USA"			"MG-RAST"	4441144.3		12	"marine habitat"		"Cape May, NJ"	"United States of America"								"Venter"
+"Global Ocean Sampling Expedition"	"GS011 Shotgun - Estuary - North American East Coast - Delaware Bay, NJ - USA"			"MG-RAST"	4441658.3		11	"marine habitat"		"Delaware Bay, NJ"	"United States of America"								"Venter"
+"Global Ocean Sampling Expedition"	"GS012 Shotgun - Estuary - North American East Coast - Chesapeake Bay, MD - USA"			"MG-RAST"	4441584.3		1	"marine habitat"		"Chesapeake Bay, MD"	"United States of America"								"Venter"
+"Global Ocean Sampling Expedition"	"GS013 Shotgun - Coastal - North American East Coast - Off Nags Head, NC - USA"			"MG-RAST"	4441585.3		9.3	"marine habitat"		"Off Nags Head, NC"	"United States of America"								"Venter"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 0-1mm"			"MG-RAST"	4440964.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 1-2mm"			"MG-RAST"	4440963.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 10-22mm"			"MG-RAST"	4440968.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 2-3mm"			"MG-RAST"	4440965.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 22-34mm"			"MG-RAST"	4440971.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 3-4mm"			"MG-RAST"	4440966.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 34-49mm"			"MG-RAST"	4440972.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 4-5mm"			"MG-RAST"	4440967.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 5-6mm"			"MG-RAST"	4440969.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"Guerrero Negro Metagenomes"	"Guerrero Negro 6-10mm"			"MG-RAST"	4440970.3		15	"microbial mat"		"Exportadora de Sal saltworks, Guerrero Negro, Baja California Sur, Mexico"	"Mexico"								"Hugenholtz"
+"iCOMM (Western English Channel PML samples)"	"2007-02-16"			"MG-RAST"	4441488.3		10.1	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM (Western English Channel PML samples)"	"2007-03-07"			"MG-RAST"	4441489.3		10.3	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM (Western English Channel PML samples)"	"2007-03-26"			"MG-RAST"	4441490.3		10.3	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM (Western English Channel PML samples)"	"2007-04-23"			"MG-RAST"	4441492.3		11.8	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM (Western English Channel PML samples)"	"2007-05-08"			"MG-RAST"	4441493.3		12.4	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM (Western English Channel PML samples)"	"2007-06-04"			"MG-RAST"	4441494.3		13.9	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM (Western English Channel PML samples)"	"2007-12-12"			"MG-RAST"	4441502.3		13.9	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-02-16"			"MG-RAST"	4442001.3		10.1	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-03-08"			"MG-RAST"	4442002.3		10.3	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-03-26"			"MG-RAST"	4442003.3		10.3	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-04-23"			"MG-RAST"	4442004.3		11.8	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-05-08"			"MG-RAST"	4442005.3		12.4	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"									"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-06-04"			"MG-RAST"	4442006.3		13.9	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"iCOMM Resampled (Western English Channel PML samples)"	"2007-12-12"			"MG-RAST"	4442012.3		13.9	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"lauber_88_soils"	840			"MG-RAST"	4455737.3		5.3	"soil"		"Catskills, NY"	"United States of America"								"Lauber"
+"Marine Bacterioplankton Metagenomes"	"S_35171"			"MG-RAST"	4443700.3		2.747	"marine habitat"		"Pacific North Equatorial Countercurrent"									"Karl"
+"Marine Phages"	"ArcticVir2002"			"MG-RAST"	4440306.3		0	"marine habitat"		"the Arctic Ocean, the Strait of Georgia,"									"Rohwer"
+"Marine Phages"	"BBCVir1996to2004"			"MG-RAST"	4440305.3		"7.0--22.6"	"marine habitat"		"Strait of Georgia and adjacent inlets, Barclay Sound"									"Rohwer"
+"Mediterranean Bathypelagic Habitat"	"Mediterranean Bathypelagic Habitat"			"MG-RAST"	4441025.3		13.93	"marine habitat"		"Ionian Km3 station"	"Italy"								"Rodríguez-Valera"
+"Mediterranean Bathypelagic Habitat"	"Mediterranean Bathypelagic Habitat"			"MG-RAST"	4442464.3		13.93	"marine habitat"		"Ionian Km3 station"	"Italy"								"Rodríguez-Valera"
+"Metagenomic Analysis of Kimchi"	"Sample J1"			"MG-RAST"	4450209.3		4	"food"		"Seoul"	"Korea (South)"								"Jeon"
+"Metagenomic Analysis of Kimchi"	"Sample J13"			"MG-RAST"	4450210.3		4	"food"		"Seoul"	"Korea (South)"								"Jeon"
+"Metagenomic Analysis of Kimchi"	"Sample J16"			"MG-RAST"	4450211.3		4	"food"		"Seoul"	"Korea (South)"								"Jeon"
+"Microbial Community Genomics at the HOT/ALOHA"	"HOT/ALOHA - Core of Dissolved Oxygen Minimum Layer 770m"			"MG-RAST"	4441062.3		4.78	"marine habitat"		"HOT station ALOHA"	"United States of America"								"DeLong"
+"Microbial Community Genomics at the HOT/ALOHA"	"HOT/ALOHA - Deep Abyss 4000m"			"MG-RAST"	4441056.3		1.46	"marine habitat"		"HOT station ALOHA"	"United States of America"								"DeLong"
+"Microbial Community Genomics at the HOT/ALOHA"	"HOT/ALOHA - Well Below Upper Mesopelagic 500m"			"MG-RAST"	4441057.3		7.25	"marine habitat"		"HOT station ALOHA"	"United States of America"								"DeLong"
+"Microbial Community Genomics at the HOT/ALOHA"	"JGI HF4000 - Deep Abyss"			"MG-RAST"	4442503.3		1.46	"marine habitat"		"HOT station ALOHA"	"United States of America"								"DeLong"
+"Microbial Community Genomics at the HOT/ALOHA"	"JGI HF500 - Well Below Upper Mesopelagic"			"MG-RAST"	4442499.4		7.25	"marine habitat"		"HOT station ALOHA"	"United States of America"								"DeLong"
+"Microbial Community Genomics at the HOT/ALOHA"	"JGI HF770 - Core of Dissolved Oxygen Minimum Layer"			"MG-RAST"	4442500.4		4.78	"marine habitat"		"HOT station ALOHA"	"United States of America"								"DeLong"
+"Ocean Viruses"	"Arctic Canada"			"MG-RAST"	4441621.3		"-1.5 -- 1.5 C"	"marine habitat"		"Canadian Arctic"									"Rohwer"
+"Ocean Viruses"	"Arctic Chukchi"			"MG-RAST"	4441622.3		"-1.4 -- 5.4"	"marine habitat"		"Arctic Chukchi"	0								"Rohwer"
+"Ocean Viruses"	"Bay of British Columbia"			"MG-RAST"	4441623.3		"7.0 -- 22.6"	"marine habitat"		"Bay of British Columbia"									"Rohwer"
+"Ocean Viruses"	"Gulf of Mexico - Texas Coast"			"MG-RAST"	4441628.3		"14.7--30.5"	"marine habitat"		"Texas Coast, Gulf of Mexico"									"Rohwer"
+"Ocean Viruses"	"Gulf of Mexico - Texas Coast"			"MG-RAST"	4441626.3		"14.7 -- 30.5"	"marine habitat"		"Texas Coast, Gulf of Mexico"									"Rohwer"
+"Peru Margin Subseafloor Biosphere"	"1229 1 mbsf ORIGINAL"			"MG-RAST"	4440960.3		15	"sediment"		"Ocean Drilling Program leg 201, site 1229"	"Peru"								"Biddle"
+"Peru Margin Subseafloor Biosphere"	"1229 1mbsf AMPLIFIED"			"MG-RAST"	4440961.3		15	"sediment"		"Ocean Drilling Program leg 201, site 1229"	"Peru"								"Biddle"
+"Peru Margin Subseafloor Biosphere"	"1229_16mbsf_AMPLIFIED"			"MG-RAST"	4440973.3		15	"sediment"		"Ocean Drilling Program leg 201, site 1229"	"Peru"								"Biddle"
+"Peru Margin Subseafloor Biosphere"	"1229_32mbsf_AMPLIFIED"			"MG-RAST"	4459940.3		15	"sediment"		"Ocean Drilling Program leg 201, site 1229"	"Peru"								"Biddle"
+"Peru Margin Subseafloor Biosphere"	"1229_50mbsf_AMPLIFIED"			"MG-RAST"	4459941.3		15	"sediment"		"Ocean Drilling Program leg 201, site 1229"	"Peru"								"Biddle"
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 12/11/07"			"MG-RAST"	4466051.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 12/11/07"			"MG-RAST"	4465794.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 4/18/07"			"MG-RAST"	4466055.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 4/18/07"			"MG-RAST"	4465797.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 4/20/05"			"MG-RAST"	4465798.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 4/20/05"			"MG-RAST"	4466056.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 8/21/07"			"MG-RAST"	4466040.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, Jones Island 8/21/07"			"MG-RAST"	4465792.3		15	"waste water"		"Jones Island, Milwaukee, WI"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 12/11/07"			"MG-RAST"	4466052.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 12/11/07"			"MG-RAST"	4465795.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 4/18/07"			"MG-RAST"	4466053.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 4/18/07"			"MG-RAST"	4465796.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 4/20/05"			"MG-RAST"	4465799.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 4/20/05"			"MG-RAST"	4466058.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 8/21/07"			"MG-RAST"	4465793.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Sewage Influent Bacterial SSU"	"Sewage Influent Bacterial SSU rRNA V6 tag sequencing, South Shore 8/21/07"			"MG-RAST"	4466050.3		15	"waste water"		"South Shore, Chicago, IL"	"United States of America"								
+"Skan Bay, Alaska Ocean Viruses"	"SkanBayAlaskaVir20060927"			"MG-RAST"	4440330.3		"1--6"	"sediment"		"Skan Bay, Alaska"	"United States of America"								"Kendall"
+"Western English Channel Time Series"	"151- Jan_Day_prefiltered repeats removed"			"MG-RAST"	4443360.3		10.01	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"152-Jan_Night_Prefilter repeats removed"			"MG-RAST"	4443361.3		10.05	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"153-April_Day_Prefilter repeats removed"			"MG-RAST"	4443362.3		9.7	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"154_Apr-Night_Prefilter repeats removed"			"MG-RAST"	4443363.3		9.6	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"155-Apr_Day repeats removed"			"MG-RAST"	4443364.3		9.7	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"Apr_Night_pf"			"MG-RAST"	4445067.3		9.6	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"Jan_Day"			"MG-RAST"	4445069.3		10.01	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"Jan_Night_pf"			"MG-RAST"	4445070.3		10.05	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"Western English Channel Time Series"	"Jan-Day_pf"			"MG-RAST"	4445081.3		10.01	"marine habitat"		"L4 sampling site, Western Channel Obersvatory"	"United Kingdom"								"Gilbert"
+"308_1"	"308_1"			"MG-RAST"	4441214.3		4	"sediment"		"Gulf of Mexico"	"United States of America"								
+"High Andean Forest Soil"	"High Andean Forest Soil"			"MG-RAST"	4447277.3		9.8	"soil"			"Colombia"								
+"TLE dereplicated large Geneious contigs"	"TLE dereplicated large Geneious contigs"			"MG-RAST"	4461618.3		9	"extreme habitat"		"Gros Morne National Park, Newfoundland"	"Canada"								
+"TLE sff"	"TLE sff"			"MG-RAST"	4460689.3		9	"extreme habitat"		"Gros Morne National Park, Newfoundland"	"Canada"								
