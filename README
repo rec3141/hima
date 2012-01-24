@@ -1,3 +1,16 @@
-hima: a meta-database of low temperature genomes and metagenomes
+HIMA: A META-DATABASE FOR GENOMES, METAGENOMES, AND PHENOTYPES FROM COLD ENVIRONMENTS
 
-
+The recent flood of sequencing data has been a boon for the traditionally data-poor discipline of biology, but can
+also prove overwhelming. For microbial ecologists, it would be useful to access a database of phenotypic traits for 
+cultured species of microorganisms, but there does not yet exist a comprehensive database linking genome, taxonomy, 
+and phenotype from environmental isolates; neither are detailed metadata always submitted by sequencing facilities 
+and investigators. For example, no queryable database exists to get a list of all known strains of Bacteria that 
+reduce sulfate, or strains which grow at temperatures below 10˚C. As an initial foray into a web-based database 
+linking phenotype and genotype, I have created a database linking sequences and phenotypic data (which are often 
+archived in disparate locations and formats) of cold-active microorganisms from all three Domains of Life. When 
+available, I include sampling environment, location, temperature and growth range, depth, sequencing platform, 
+amount of data, etc. Currently, the database includes 50 complete genomes sequences as well as 444 metagenomes, 
+including a number of transcriptomes and viromes. Isolates and environmental samples, collected between 79˚N and 
+77˚S, come from many environments. The database—called 'hima' after the Sanskrit word for snow or cold—will be 
+updated into the future and further expanded to include analytical resources; it can be accessed at 
+http://reric.org/work/hima/. [R. Eric Collins, Ocean Sciences Meeting 2012]
